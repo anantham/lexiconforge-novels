@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-10-20",
+  "description": "Community registry for LexiconForge novel translations",
+  "novels": [
+    {
+      "id": "dungeon-defense",
+      "metadataUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/dungeon-defense/metadata.json"
+    }
+  ]
+}
