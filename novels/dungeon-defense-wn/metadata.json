@@ -1,0 +1,80 @@
+{
+  "id": "dungeon-defense-wn",
+  "title": "Dungeon Defense (WN)",
+  "alternateTitles": [
+    "ダンジョンディフェンス",
+    "던전 디펜스"
+  ],
+  "metadata": {
+    "title": "Dungeon Defense (WN)",
+    "alternateTitles": [
+      "ダンジョンディフェンス",
+      "던전 디펜스"
+    ],
+    "originalLanguage": "Korean",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Harem",
+      "Horror",
+      "Mature",
+      "Psychological"
+    ],
+    "description": "Do you know how this world ends?\n\nBecome the hero and take down the 72 Demon Lords. The game that was boasted as the absolute hardest strategy game, 『Dungeon Attack』.\n\nI used to be the ‘hero’ that had accomplished everything in this game, but after answering a suspicious survey, I found myself in the game as the weakest Demon Lord, 「Dantalian」.\n\nWith only my eloquent tongue and my memories of conquest as a hero—.\n\nIn order to survive as Dantalian. I shall tear this world apart.",
+    "author": "유헌화 (Yoo Heonhwa)",
+    "coverImageUrl": "https://i.imgur.com/3c00nTp.jpeg",
+    "publicationStatus": "Completed",
+    "originalPublicationDate": "2014-08-13",
+    "tags": [
+      "Cruel Characters",
+      "Cunning Calm Genius Protagonist",
+      "Dark"
+    ],
+    "sourceLinks": {
+      "novelUpdates": "https://www.novelupdates.com/series/dungeon-defense/",
+      "bestTranslation": "https://shalvationtranslations.wordpress.com/dungeon-defense-wn-table-of-contents/",
+      "rawSource": "https://booktoki468.com/novel/3912072?stx=%EB%8D%98%EC%A0%84+%EB%94%94%ED%8E%9C%EC%8A%A4&book=%EC%99%84%EA%B2%B0%EC%86%8C%EC%84%A4&spage=1",
+      "lnAdaptation": "https://shalvationtranslations.wordpress.com/dungeon-defense-toc/",
+      "manga": "https://kunmanga.com/manga/dungeon-defense/chapter-0/"
+    },
+    "lastUpdated": "2025-10-21"
+  },
+  "versions": [
+    {
+      "versionId": "v1-primary",
+      "displayName": "Primary Translation",
+      "translator": {
+        "name": "유헌화 (Yoo Heonhwa)",
+        "link": "https://shalvationtranslations.wordpress.com/dungeon-defense-wn-table-of-contents/"
+      },
+      "sessionJsonUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/dungeon-defense-wn/session.json",
+      "targetLanguage": "English",
+      "style": "faithful",
+      "features": [],
+      "chapterRange": {
+        "from": 1,
+        "to": 509
+      },
+      "completionStatus": "In Progress",
+      "lastUpdated": "2025-10-21",
+      "stats": {
+        "downloads": 0,
+        "fileSize": "0MB",
+        "content": {
+          "totalImages": 463,
+          "totalFootnotes": 462,
+          "totalRawChapters": 509,
+          "totalTranslatedChapters": 283,
+          "avgImagesPerChapter": 0.9096267190569745,
+          "avgFootnotesPerChapter": 0.9076620825147348
+        },
+        "translation": {
+          "translationType": "human",
+          "feedbackCount": 0,
+          "qualityRating": 0
+        }
+      }
+    }
+  ]
+}
