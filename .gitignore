@@ -1,6 +1,5 @@
-# Session files (too large for git - use releases or LFS)
+# Session files backup
 *.json.bak
-**/session.json
 
 # OS files
 .DS_Store

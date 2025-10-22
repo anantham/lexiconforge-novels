@@ -1,0 +1,91 @@
+{
+  "id": "eternal-life",
+  "title": "Eternal Life",
+  "alternateTitles": [
+    "Yong Sheng",
+    "永生"
+  ],
+  "metadata": {
+    "title": "Eternal Life",
+    "alternateTitles": [
+      "Yong Sheng",
+      "永生"
+    ],
+    "originalLanguage": "Chinese",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Harem",
+      "Xuanhuan",
+      "Cultivation"
+    ],
+    "description": "The mortal body, metamorphosis, longevity, immortality, and eternal life. These five realms, step by step, reveal themselves in front of you. As a normal person, how can one try step by step to reach and open the door to eternal life?\n\nBetween the heaven and the earth lies the mortal body, the mysteries of metamorphosis, freedom of longevity, the power of immortality, and the hope of eternal life. A story filled with endless new magic, a new world of immortal styles, people, demons, gods, fairies, magic, kings and emperors. A world of love and hatred, revenge, and mystical battle, all in “Eternal Life.”\n\n",
+    "author": "Meng Ru Shen Ji (梦入神机)",
+    "coverImageUrl": "https://preview.redd.it/why-is-there-a-difference-in-the-story-of-manhua-and-v0-sqabo1csm8w81.jpg?width=1080&crop=smart&auto=webp&s=14e50d5053278f7f7daf1ae01b53a2d09da514b4",
+    "publicationStatus": "Ongoing",
+    "originalPublicationDate": "2015-08-11",
+    "chapterCount": 1634,
+    "tags": [
+      "Harem",
+      "Ruthless Protagonist"
+    ],
+    "sourceLinks": {
+      "novelUpdates": "https://www.novelupdates.com/series/eternal-life/",
+      "bestTranslation": "https://rozenfantasyblog.wordpress.com/eternal-life-01/",
+      "rawSource": "https://www.kanunu8.com/book3/7561/index.html",
+      "manga": "https://manhuatop.org/manhua/eternal-life/chapter-1/",
+      "anime": "https://www.bilibili.tv/vi/video/4788316730563072"
+    },
+    "lastUpdated": "2025-10-21",
+    "targetLanguage": "English"
+  },
+  "versions": [
+    {
+      "versionId": "v1-primary",
+      "displayName": "Primary Translation",
+      "translator": {
+        "name": "Unknown",
+        "link": "https://rozenfantasyblog.wordpress.com/eternal-life-01/"
+      },
+      "sessionJsonUrl": "https://example.com/eternal-life/session.json",
+      "targetLanguage": "English",
+      "style": "faithful",
+      "features": [],
+      "chapterRange": {
+        "from": 1,
+        "to": 8
+      },
+      "completionStatus": "In Progress",
+      "lastUpdated": "2025-10-21",
+      "stats": {
+        "downloads": 0,
+        "fileSize": "0MB",
+        "content": {
+          "totalImages": 15,
+          "totalFootnotes": 11,
+          "totalRawChapters": 8,
+          "totalTranslatedChapters": 8,
+          "avgImagesPerChapter": 1.875,
+          "medianImagesPerChapter": 2,
+          "avgFootnotesPerChapter": 1.375,
+          "medianFootnotesPerChapter": 1,
+          "avgChapterLength": 11059,
+          "medianChapterLength": 11182
+        },
+        "translation": {
+          "translationType": "human",
+          "feedbackCount": 0,
+          "amendmentCount": 0,
+          "totalCost": 0.21087367999999998,
+          "totalTokens": 155844,
+          "mostUsedModel": "OpenRouter/x-ai/grok-3-mini-beta",
+          "dateRange": {
+            "start": "2025-08-28",
+            "end": "2025-10-21"
+          }
+        }
+      }
+    }
+  ]
+}
