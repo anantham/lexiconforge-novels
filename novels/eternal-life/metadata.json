@@ -45,10 +45,10 @@
       "versionId": "v1-primary",
       "displayName": "Primary Translation",
       "translator": {
-        "name": "Unknown",
+        "name": "Anon",
         "link": "https://rozenfantasyblog.wordpress.com/eternal-life-01/"
       },
-      "sessionJsonUrl": "https://example.com/eternal-life/session.json",
+      "sessionJsonUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/eternal-life/session.json",
       "targetLanguage": "English",
       "style": "faithful",
       "features": [],
