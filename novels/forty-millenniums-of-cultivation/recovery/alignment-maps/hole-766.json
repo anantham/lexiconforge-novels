@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "generatedAt": "2026-03-30T04:57:31Z",
+  "rawSourcePath": "/Users/aditya/Downloads/《修真四万年》（校对版全本）作者：卧牛真人.txt",
+  "fanSourcePath": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/767",
+  "verifier": {
+    "kind": "manual-bilingual-review"
+  },
+  "segments": [
+    {
+      "kind": "one_to_one",
+      "raw": {
+        "from": 766,
+        "to": 766
+      },
+      "english": {
+        "from": 767,
+        "to": 767
+      },
+      "offset": 1,
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "rawChapterNumber": 766,
+          "englishChapterNumber": 767,
+          "confidence": 0.99,
+          "rationale": "Manual bilingual review: raw 766 opens with Li Yao secretly wiping his sweat while reading Yan Xinjian's materials; NovelHi chapter 767 opens with the same scene."
+        }
+      ],
+      "notes": [
+        "Recovered manually after PDF hole confirmation and local NovelHi neighbor inspection."
+      ]
+    }
+  ]
+}

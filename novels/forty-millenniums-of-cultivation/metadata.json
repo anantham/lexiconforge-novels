@@ -1,0 +1,84 @@
+{
+  "id": "forty-millenniums-of-cultivation",
+  "title": "Forty Millenniums of Cultivation",
+  "alternateTitles": [
+    "修真四万年",
+    "修真四萬年",
+    "Xiu Zhen Si Wan Nian",
+    "Star Field Forty Thousand Years"
+  ],
+  "metadata": {
+    "originalLanguage": "Chinese",
+    "targetLanguage": "English",
+    "chapterCount": 3269,
+    "genres": [
+      "Sci-Fi",
+      "Xianxia",
+      "Action",
+      "Adventure",
+      "Mecha"
+    ],
+    "description": "A sprawling sci-fi xianxia epic following Li Yao from scrap-heaps and artifact repair into interstellar ideological war, cultivation, and the future of human civilization.",
+    "coverImageUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/cover.jpg",
+    "author": "卧牛真人 (The Enlightened Master Crouching Cow)",
+    "sourceLinks": {
+      "novelUpdates": "https://www.novelupdates.com/series/forty-millenniums-of-cultivation/",
+      "rawSource": "https://www.qidian.com/book/3439785/"
+    },
+    "tags": [
+      "Artifact Crafting",
+      "Space Warfare",
+      "Political Intrigue",
+      "Philosophical",
+      "Rational Protagonist"
+    ],
+    "publicationStatus": "Completed",
+    "lastUpdated": "2026-03-30"
+  },
+  "versions": [
+    {
+      "versionId": "v1-composite",
+      "displayName": "Golden-Age PDF Partial + NovelHi Hole Recovery",
+      "translator": {
+        "name": "LexiconForge composite (community sources)"
+      },
+      "sessionJsonUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/session.json",
+      "targetLanguage": "English",
+      "style": "faithful",
+      "features": [
+        "fan-translation",
+        "pdf-range",
+        "manual-hole-recovery"
+      ],
+      "chapterRange": {
+        "from": 1,
+        "to": 3269
+      },
+      "completionStatus": "In Progress",
+      "lastUpdated": "2026-03-30",
+      "description": "Chinese raw text paired with the golden-age PDF range, plus targeted NovelHi recoveries for the PDF extraction holes.",
+      "translationPhilosophy": "Use the PDF mirror for chapters 1-2387 and fill only the four confirmed PDF holes with manually verified NovelHi matches. Prefer missing fan-translation over silently attaching ambiguous or merged source ranges.",
+      "contentNotes": "Built from a GB18030 Chinese source TXT, a text-based PDF covering chapters 1-2387, and four manually verified NovelHi recoveries for chapters 766, 1911, 2187, and 2348. Chapters after 2387 remain raw-only for now.",
+      "stats": {
+        "downloads": 0,
+        "fileSize": "59.04MB",
+        "content": {
+          "totalImages": 0,
+          "totalFootnotes": 0,
+          "totalRawChapters": 3269,
+          "totalTranslatedChapters": 2387,
+          "avgImagesPerChapter": 0,
+          "medianImagesPerChapter": 0,
+          "avgFootnotesPerChapter": 0,
+          "medianFootnotesPerChapter": 0,
+          "avgChapterLength": 11613.357352325094,
+          "medianChapterLength": 11613.357352325094
+        },
+        "translation": {
+          "translationType": "human",
+          "feedbackCount": 0
+        }
+      }
+    }
+  ]
+}

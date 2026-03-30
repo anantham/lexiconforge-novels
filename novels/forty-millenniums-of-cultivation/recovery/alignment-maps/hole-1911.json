@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "generatedAt": "2026-03-30T04:57:31Z",
+  "rawSourcePath": "/Users/aditya/Downloads/《修真四万年》（校对版全本）作者：卧牛真人.txt",
+  "fanSourcePath": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/1915",
+  "verifier": {
+    "kind": "manual-bilingual-review"
+  },
+  "segments": [
+    {
+      "kind": "one_to_one",
+      "raw": {
+        "from": 1911,
+        "to": 1911
+      },
+      "english": {
+        "from": 1915,
+        "to": 1915
+      },
+      "offset": 4,
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "rawChapterNumber": 1911,
+          "englishChapterNumber": 1915,
+          "confidence": 0.99,
+          "rationale": "Manual bilingual review: raw 1911 opens with Li Yao estimating that the Pangu-Nuwa civil war was already in its middle and late phase; NovelHi chapter 1915 opens with the same reflection before the commanders' last words."
+        }
+      ],
+      "notes": [
+        "Recovered manually after widening the NovelHi search window because nearby chapters 1909-1913 did not match."
+      ]
+    }
+  ]
+}
