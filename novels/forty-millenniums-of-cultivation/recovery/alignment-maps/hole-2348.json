@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "generatedAt": "2026-03-30T04:57:31Z",
+  "rawSourcePath": "/Users/aditya/Downloads/《修真四万年》（校对版全本）作者：卧牛真人.txt",
+  "fanSourcePath": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/2352",
+  "verifier": {
+    "kind": "manual-bilingual-review"
+  },
+  "segments": [
+    {
+      "kind": "one_to_one",
+      "raw": {
+        "from": 2348,
+        "to": 2348
+      },
+      "english": {
+        "from": 2352,
+        "to": 2352
+      },
+      "offset": 4,
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "rawChapterNumber": 2348,
+          "englishChapterNumber": 2352,
+          "confidence": 0.99,
+          "rationale": "Manual bilingual review: raw 2348 opens with Li Jialing explaining the 10084 district's three-shift labor cycle, oxygen scarcity, and euthanasia analogy; NovelHi chapter 2352 opens with the same material."
+        }
+      ],
+      "notes": [
+        "Recovered manually after widening the NovelHi search window because the nearby 2346-2350 window only contained later continuation scenes."
+      ]
+    }
+  ]
+}

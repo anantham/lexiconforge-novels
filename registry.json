@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-22",
+  "lastUpdated": "2026-03-30",
   "description": "Community registry for LexiconForge novel translations",
   "novels": [
     {
@@ -10,6 +10,10 @@
     {
       "id": "eternal-life",
       "metadataUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/eternal-life/metadata.json"
+    },
+    {
+      "id": "forty-millenniums-of-cultivation",
+      "metadataUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/metadata.json"
     }
   ]
 }
