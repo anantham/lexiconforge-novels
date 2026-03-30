@@ -42,7 +42,7 @@
       "translator": {
         "name": "LexiconForge composite (community sources)"
       },
-      "sessionJsonUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/session.json",
+      "sessionJsonUrl": "https://media.githubusercontent.com/media/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/session.json",
       "targetLanguage": "English",
       "style": "faithful",
       "features": [
