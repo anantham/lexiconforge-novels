@@ -1,10 +1,25 @@
 {
   "novelId": "forty-millenniums-of-cultivation",
-  "generatedAt": "2026-03-30T05:09:38.734Z",
+  "generatedAt": "2026-03-30T11:44:26.367Z",
   "rawChapterCount": 3269,
   "sessionChapterCount": 3269,
-  "translatedChapterCount": 2387,
+  "translatedChapterCount": 2384,
   "warnings": [
+    {
+      "chapterNumber": 1891,
+      "kind": "missing-fan-translation",
+      "message": "No fan translation source matched chapter 1891."
+    },
+    {
+      "chapterNumber": 1898,
+      "kind": "missing-fan-translation",
+      "message": "No fan translation source matched chapter 1898."
+    },
+    {
+      "chapterNumber": 1917,
+      "kind": "missing-fan-translation",
+      "message": "No fan translation source matched chapter 1917."
+    },
     {
       "chapterNumber": 2388,
       "kind": "missing-fan-translation",
@@ -4424,9 +4439,21 @@
       "loadedChapterCount": 3269
     },
     {
+      "path": "/Users/aditya/Downloads/Forty Millenniums of Cultivation 1-2387=33++.pdf",
+      "label": "Golden-age PDF 1-2387",
+      "translator": "Forty Millenniums of Cultivation 1-2387=33++",
+      "loadedChapterCount": 2382,
+      "selectedRanges": [
+        {
+          "from": 1,
+          "to": 2387
+        }
+      ]
+    },
+    {
       "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/767",
       "label": "NovelHi hole recovery 766->767",
-      "translator": "NovelHi (manual hole recovery)",
+      "translator": "Forty Millenniums of Cultivation",
       "loadedChapterCount": 1,
       "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-766.json",
       "selectedRanges": [
@@ -4439,7 +4466,7 @@
     {
       "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/1915",
       "label": "NovelHi hole recovery 1911->1915",
-      "translator": "NovelHi (manual hole recovery)",
+      "translator": "Forty Millenniums of Cultivation",
       "loadedChapterCount": 1,
       "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-1911.json",
       "selectedRanges": [
@@ -4452,7 +4479,7 @@
     {
       "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/2191",
       "label": "NovelHi hole recovery 2187->2191",
-      "translator": "NovelHi (manual hole recovery)",
+      "translator": "Forty Millenniums of Cultivation",
       "loadedChapterCount": 1,
       "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-2187.json",
       "selectedRanges": [
@@ -4465,25 +4492,13 @@
     {
       "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/2352",
       "label": "NovelHi hole recovery 2348->2352",
-      "translator": "NovelHi (manual hole recovery)",
+      "translator": "Forty Millenniums of Cultivation",
       "loadedChapterCount": 1,
       "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-2348.json",
       "selectedRanges": [
         {
           "from": 2348,
           "to": 2348
-        }
-      ]
-    },
-    {
-      "path": "/Users/aditya/Downloads/Forty Millenniums of Cultivation 1-2387=33++.pdf",
-      "label": "Golden-age PDF 1-2387",
-      "translator": "Golden-age PDF mirror",
-      "loadedChapterCount": 3111,
-      "selectedRanges": [
-        {
-          "from": 1,
-          "to": 2387
         }
       ]
     }

@@ -1,0 +1,70 @@
+{
+  "novel": {
+    "id": "forty-millenniums-of-cultivation",
+    "title": "Forty Millenniums of Cultivation",
+    "alternateTitles": ["修真四万年", "修真四萬年", "Xiu Zhen Si Wan Nian"],
+    "author": "卧牛真人 (The Enlightened Master Crouching Cow)",
+    "originalLanguage": "Chinese",
+    "genres": ["Sci-Fi", "Xianxia", "Action", "Adventure", "Mecha"],
+    "description": "A sprawling sci-fi xianxia epic following Li Yao from scrap-heaps and artifact repair into interstellar ideological war, cultivation, and the future of human civilization.",
+    "coverImageUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/cover.jpg",
+    "sourceLinks": {
+      "novelUpdates": "https://www.novelupdates.com/series/forty-millenniums-of-cultivation/",
+      "rawSource": "https://www.qidian.com/book/3439785/"
+    },
+    "tags": ["Artifact Crafting", "Space Warfare", "Ideological Conflict", "Cultivation"]
+  },
+  "version": {
+    "versionId": "v1-composite",
+    "displayName": "Golden-Age PDF Partial + NovelHi Hole Recovery",
+    "translator": {
+      "name": "LexiconForge composite (community sources)"
+    },
+    "targetLanguage": "English",
+    "style": "faithful",
+    "features": ["fan-translation", "pdf-range", "manual-hole-recovery"],
+    "chapterRange": { "from": 1, "to": 2387 },
+    "completionStatus": "In Progress"
+  },
+  "sources": {
+    "raw": {
+      "path": "/Users/aditya/Downloads/《修真四万年》（校对版全本）作者：卧牛真人.txt",
+      "label": "Raw Chinese TXT"
+    },
+    "fan": [
+      {
+        "path": "/Users/aditya/Downloads/Forty Millenniums of Cultivation 1-2387=33++.pdf",
+        "label": "Golden-age PDF 1-2387",
+        "ranges": [{ "from": 1, "to": 2387 }]
+      },
+      {
+        "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/767",
+        "label": "NovelHi hole recovery 766->767",
+        "ranges": [{ "from": 766, "to": 766 }],
+        "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-766.json"
+      },
+      {
+        "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/1915",
+        "label": "NovelHi hole recovery 1911->1915",
+        "ranges": [{ "from": 1911, "to": 1911 }],
+        "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-1911.json"
+      },
+      {
+        "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/2191",
+        "label": "NovelHi hole recovery 2187->2191",
+        "ranges": [{ "from": 2187, "to": 2187 }],
+        "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-2187.json"
+      },
+      {
+        "path": "https://novelhi.com/s/Forty-Millenniums-of-Cultivation/2352",
+        "label": "NovelHi hole recovery 2348->2352",
+        "ranges": [{ "from": 2348, "to": 2348 }],
+        "alignmentMapPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels/forty-millenniums-of-cultivation/recovery/alignment-maps/hole-2348.json"
+      }
+    ]
+  },
+  "output": {
+    "novelsRoot": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/novels",
+    "registryPath": "/Users/aditya/Documents/Ongoing Local/lexiconforge-novels/registry.json"
+  }
+}

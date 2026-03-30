@@ -4,12 +4,10 @@
   "alternateTitles": [
     "修真四万年",
     "修真四萬年",
-    "Xiu Zhen Si Wan Nian",
-    "Star Field Forty Thousand Years"
+    "Xiu Zhen Si Wan Nian"
   ],
   "metadata": {
     "originalLanguage": "Chinese",
-    "targetLanguage": "English",
     "chapterCount": 3269,
     "genres": [
       "Sci-Fi",
@@ -28,11 +26,9 @@
     "tags": [
       "Artifact Crafting",
       "Space Warfare",
-      "Political Intrigue",
-      "Philosophical",
-      "Rational Protagonist"
+      "Ideological Conflict",
+      "Cultivation"
     ],
-    "publicationStatus": "Completed",
     "lastUpdated": "2026-03-30"
   },
   "versions": [
@@ -56,23 +52,20 @@
       },
       "completionStatus": "In Progress",
       "lastUpdated": "2026-03-30",
-      "description": "Chinese raw text paired with the golden-age PDF range, plus targeted NovelHi recoveries for the PDF extraction holes.",
-      "translationPhilosophy": "Use the PDF mirror for chapters 1-2387 and fill only the four confirmed PDF holes with manually verified NovelHi matches. Prefer missing fan-translation over silently attaching ambiguous or merged source ranges.",
-      "contentNotes": "Built from a GB18030 Chinese source TXT, a text-based PDF covering chapters 1-2387, and four manually verified NovelHi recoveries for chapters 766, 1911, 2187, and 2348. Chapters after 2387 remain raw-only for now.",
       "stats": {
         "downloads": 0,
-        "fileSize": "59.04MB",
+        "fileSize": "59.48MB",
         "content": {
           "totalImages": 0,
           "totalFootnotes": 0,
           "totalRawChapters": 3269,
-          "totalTranslatedChapters": 2387,
+          "totalTranslatedChapters": 2384,
           "avgImagesPerChapter": 0,
           "medianImagesPerChapter": 0,
           "avgFootnotesPerChapter": 0,
           "medianFootnotesPerChapter": 0,
-          "avgChapterLength": 11613.357352325094,
-          "medianChapterLength": 11613.357352325094
+          "avgChapterLength": 11688.930369127516,
+          "medianChapterLength": 11688.930369127516
         },
         "translation": {
           "translationType": "human",
