@@ -1,0 +1,502 @@
+{
+  "format": "lexiconforge-glossary",
+  "tier": "book",
+  "id": "fmc-st-glossary",
+  "entries": [
+    {
+      "source": "Artifact Graveyard",
+      "target": "Special Waste Treatment Plant No. 23, where broken cultivation artifacts are disposed. Li Yao's childhood home. (法宝废墟)",
+      "type": "terminology"
+    },
+    {
+      "source": "Spirit Root",
+      "target": "Pineal gland organ linking humans to essence energy. Must reach 100% Spirit Actualization Quotient for awakening. (灵根)",
+      "type": "terminology"
+    },
+    {
+      "source": "Spirit Actualization Quotient",
+      "target": "Percentage measure of Spirit Root development. 100% = Spirit Root Awakening. (灵觉率)",
+      "type": "terminology"
+    },
+    {
+      "source": "Essence Energy",
+      "target": "Fundamental energy of the cultivation world, drawn from heaven and earth. (灵气)",
+      "type": "terminology"
+    },
+    {
+      "source": "Crystal Processor",
+      "target": "Computing device powered by cultivation technology. Equivalent to modern computers. (晶脑)",
+      "type": "terminology"
+    },
+    {
+      "source": "Glyph Array",
+      "target": "Magical circuit system inscribed on artifacts to give them power. (符阵)",
+      "type": "terminology"
+    },
+    {
+      "source": "Great Dark Age",
+      "target": "30,000-year period when demon beasts devastated human civilization. Divides Classical and Modern cultivation. (黑暗大时代)",
+      "type": "terminology"
+    },
+    {
+      "source": "Heaven's Origin Sector",
+      "target": "The world/dimension where the story takes place. (天元界)",
+      "type": "terminology"
+    },
+    {
+      "source": "Star Glory Federation",
+      "target": "The nation Li Yao belongs to. Martial culture rooted in cultivation. (星耀联邦)",
+      "type": "terminology"
+    },
+    {
+      "source": "Floating Spear City",
+      "target": "Federal cultivation city where Li Yao grew up. (浮空城)",
+      "type": "terminology"
+    },
+    {
+      "source": "Wild Waves City",
+      "target": "City where Grand Desolate War Institution is located, in the Demon Beast Wasteland. (狂浪城)",
+      "type": "terminology"
+    },
+    {
+      "source": "Nine Elite Universities",
+      "target": "Top cultivation universities. Includes Deep Sea, Grand Desolate, Star Nebula, Sky Fantasia, etc. (九大名校)",
+      "type": "terminology"
+    },
+    {
+      "source": "Grand Desolate War Institution",
+      "target": "University Li Yao attends. Located in the wasteland, emphasizes combat. (大荒战院)",
+      "type": "terminology"
+    },
+    {
+      "source": "Deep Sea University",
+      "target": "#1 university for refiners/artificers. Li Yao rejected them. (深海大学)",
+      "type": "terminology"
+    },
+    {
+      "source": "Refiner",
+      "target": "Cultivation profession specializing in crafting magical equipment. Li Yao's chosen path. (炼器师)",
+      "type": "terminology"
+    },
+    {
+      "source": "Crystal Armor",
+      "target": "Powered exoskeleton for cultivators. Project Mystic Skeleton aims to mass-produce them. (晶甲)",
+      "type": "terminology"
+    },
+    {
+      "source": "Mystic Skeleton Battlesuit",
+      "target": "Project name for mass-production crystal armor at GDWI. (玄骨战甲)",
+      "type": "terminology"
+    },
+    {
+      "source": "Tai'e Crafting Furnace",
+      "target": "Legendary crafting furnace. Li Yao restored the 1st generation model. (太阿炼器炉)",
+      "type": "terminology"
+    },
+    {
+      "source": "Tenebrum Energy",
+      "target": "Demonic energy. Li Yao's body absorbed residual amounts from Ou Yezi. (天魔之力)",
+      "type": "terminology"
+    },
+    {
+      "source": "Fiend Star",
+      "target": "Li Yao's nickname after his demonic transformation was revealed. Also means \"bad luck star.\" (妖星)",
+      "type": "terminology"
+    },
+    {
+      "source": "Demon Beast Detector",
+      "target": "Li Yao's first original invention. Identifies demon beast species, value, and danger level. (妖兽探测器)",
+      "type": "terminology"
+    },
+    {
+      "source": "Hundred Smelting Guild",
+      "target": "Ancient cultivator guild from 40,000 years ago where Ou Yezi worked. (百炼宗)",
+      "type": "terminology"
+    },
+    {
+      "source": "Chaos-Gale Hammer Technique",
+      "target": "Ancient 108-hands forging technique Li Yao learned through Ou Yezi's memories. (混沌疾风锤法)",
+      "type": "terminology"
+    },
+    {
+      "source": "Thunderbolt Cup",
+      "target": "All-Freshmen interdepartmental competition at Grand Desolate War Institution. (雷霆杯)",
+      "type": "terminology"
+    },
+    {
+      "source": "Great Illusionary Land",
+      "target": "VR simulation environment used for exams and training. (大幻境)",
+      "type": "terminology"
+    },
+    {
+      "source": "Strengthening Drugs",
+      "target": "Collective term for drugs that enhance physical cultivation. (强身药)",
+      "type": "terminology"
+    },
+    {
+      "source": "Demon God Virus",
+      "target": "Created 40,000 years ago. Caused Spirit Beasts to evolve into Fiend Beasts, triggering the Great Dark Age. (妖神病毒)",
+      "type": "terminology"
+    },
+    {
+      "source": "Taiyi Lightning Railgun",
+      "target": "Advanced military weapon. Li Yao helped repair one during the train thunderstorm. (太一雷霆轨道炮)",
+      "type": "terminology"
+    },
+    {
+      "source": "Refinement Stage",
+      "target": "First cultivation level. Li Yao's current stage. (炼气期)",
+      "type": "terminology"
+    },
+    {
+      "source": "Foundation Building",
+      "target": "Second cultivation level. Ding Lingdang's current stage. (筑基期)",
+      "type": "terminology"
+    },
+    {
+      "source": "Core Formation",
+      "target": "Third major cultivation level. (结丹期)",
+      "type": "terminology"
+    },
+    {
+      "source": "Nascent Soul",
+      "target": "Fourth major cultivation level. Very powerful. (元婴期)",
+      "type": "terminology"
+    },
+    {
+      "source": "Demon Soldier",
+      "target": "Low-rank demon beast. (妖兵)",
+      "type": "terminology"
+    },
+    {
+      "source": "Demon General",
+      "target": "Mid-rank demon beast. Li Yao killed one in Verdant Tarn City. (妖将)",
+      "type": "terminology"
+    },
+    {
+      "source": "Demon King",
+      "target": "High-rank demon beast, equivalent to Core Formation. (妖王)",
+      "type": "terminology"
+    },
+    {
+      "source": "Project Mystic Skeleton",
+      "target": "Mass-production crystal armor project at Grand Desolate. Li Yao's passion project. (玄骨计划)",
+      "type": "terminology"
+    },
+    {
+      "source": "Distant Expanse",
+      "target": "Massive flying warship used for university recruitment events. (苍穹号)",
+      "type": "terminology"
+    },
+    {
+      "source": "Occult Orbs",
+      "target": "Fragments of parallel worlds scattered across space. Contain treasures, demons, and ancient inheritances. (秘境)",
+      "type": "terminology"
+    },
+    {
+      "source": "Orb Patroller",
+      "target": "Cultivator who explores Occult Orbs. Elite profession. (秘境巡察使)",
+      "type": "terminology"
+    },
+    {
+      "source": "Empyreal Star City",
+      "target": "Headquarters of the Occult Orbs Fellowship. Cultivators train and form teams here. (星空城)",
+      "type": "terminology"
+    },
+    {
+      "source": "Rank of Stars",
+      "target": "Ranking system for Orb Patroller teams. Top 10 get Nascent Soul spiritual seeds. (星辰榜)",
+      "type": "terminology"
+    },
+    {
+      "source": "Children of Occult Orbs",
+      "target": "People born and raised inside Occult Orbs. Different from regular cultivators. (秘境之子)",
+      "type": "terminology"
+    },
+    {
+      "source": "Spiritual Seed",
+      "target": "Condensed power from Nascent Soul Stage cultivators. Grants temporary massive power boost (\"seed explosion\"). (灵种)",
+      "type": "terminology"
+    },
+    {
+      "source": "Seed Explosion State",
+      "target": "Temporary state of extreme power when a spiritual seed is activated. (灵种爆发)",
+      "type": "terminology"
+    },
+    {
+      "source": "Heaven's Artillery",
+      "target": "Massive volcanic silo weapon that launches star shuttles to distant Occult Orbs. (天炮)",
+      "type": "terminology"
+    },
+    {
+      "source": "Ultimacy",
+      "target": "Distant Occult Orb planet. Blue earth, red ocean. Contains ancient underground civilization and Skeleton Dragon. (终极之地)",
+      "type": "terminology"
+    },
+    {
+      "source": "Skeleton Dragon",
+      "target": "Ancient demon imprisoned for 30,000 years beneath Ultimacy. Potentially catastrophic if freed. (骸骨龙)",
+      "type": "terminology"
+    },
+    {
+      "source": "Sparkle",
+      "target": "Ancient starship found on Ultimacy. Li Yao becomes its new captain. Can travel between worlds. (星火号)",
+      "type": "terminology"
+    },
+    {
+      "source": "Silver-blood Demons",
+      "target": "Elite demon race. Like \"Imperial Guards\" of the demon civilization. (银血妖族)",
+      "type": "terminology"
+    },
+    {
+      "source": "Wang Ji",
+      "target": "Young master of demon infiltration squad. Li Yao's nemesis. (王极)",
+      "type": "terminology"
+    },
+    {
+      "source": "Jiang Shaoyang",
+      "target": "\"The Tenth Star\" / \"The Sun\". Genius refiner from Deep Sea University. Li Yao's rival. (江少阳)",
+      "type": "terminology"
+    },
+    {
+      "source": "Red Jade Mist Mirage Saber",
+      "target": "Blood saber that can manipulate blood. Captured by Li Yao during beast tide battle. (红玉迷雾刀)",
+      "type": "terminology"
+    },
+    {
+      "source": "Stars to Destroy List",
+      "target": "Demon clan's kill-on-sight list. Li Yao is on it. (灭星榜)",
+      "type": "terminology"
+    },
+    {
+      "source": "Flash Claw",
+      "target": "New artifact Li Yao created. Watch-like magical equipment. (闪爪)",
+      "type": "terminology"
+    },
+    {
+      "source": "Cosmos Ring",
+      "target": "Storage ring that holds items in dimensional space. (乾坤戒)",
+      "type": "terminology"
+    },
+    {
+      "source": "Neltharion",
+      "target": "Warship model Li Yao found. Looks like a dragon with erect scales. (死亡之翼)",
+      "type": "terminology"
+    },
+    {
+      "source": "Hell Storm Racetrack",
+      "target": "Legendary racing track for super shuttle racing. Li Yao sets record. (地狱风暴赛道)",
+      "type": "terminology"
+    },
+    {
+      "source": "Flying Star Sector",
+      "target": "Space-based civilization. No inhabitable planets — people live on space stations and starships. (飞星界)",
+      "type": "terminology"
+    },
+    {
+      "source": "Great Horn Exo Society",
+      "target": "Ragtag crystal suit warrior group Li Yao joins in the Flying Star Sector. (巨角战甲社)",
+      "type": "terminology"
+    },
+    {
+      "source": "Skill Card",
+      "target": "Mass-produced cultivation technique cards. Key technology of the Flying Star Sector. (技能卡)",
+      "type": "terminology"
+    },
+    {
+      "source": "World of Crystal Suits",
+      "target": "Online platform for crystal suit battles, trading, and discussion. (晶甲世界)",
+      "type": "terminology"
+    },
+    {
+      "source": "Temple of Immortals",
+      "target": "Secret organization of Immortal Cultivators who exploit ordinary people. Major antagonist faction. (仙人殿)",
+      "type": "terminology"
+    },
+    {
+      "source": "Immortal Cultivator",
+      "target": "Cultivators who follow the \"immortal\" path — selfishly exploiting others for personal power. Opposed to regular cultivators who protect the people. (修仙者)",
+      "type": "terminology"
+    },
+    {
+      "source": "Iron Plateau",
+      "target": "Primitive world within Flying Star Sector. Qi-trainers live here in six tribes. (铁原)",
+      "type": "terminology"
+    },
+    {
+      "source": "Qi-trainer",
+      "target": "Iron Plateau's cultivation tradition. Use spiritual gas rather than traditional cultivation methods. (气修)",
+      "type": "terminology"
+    },
+    {
+      "source": "Blood Stripe Virus",
+      "target": "Ancient parasitic virus that enhances but corrupts its host. Connected to Yan Xibei's corruption. (血纹病毒)",
+      "type": "terminology"
+    },
+    {
+      "source": "Titan Warriors",
+      "target": "Ancient fighting heritage from Iron Plateau. Fighting IS their purpose. (泰坦战士)",
+      "type": "terminology"
+    },
+    {
+      "source": "Eggs of Apocalypse",
+      "target": "Meteorite-spawned formations that produce demon beasts on Iron Plateau. (末日之卵)",
+      "type": "terminology"
+    },
+    {
+      "source": "Skyhill Sword Seminar",
+      "target": "Major refining competition in the Flying Star Sector. Li Yao competed and excelled. (天山论剑)",
+      "type": "terminology"
+    },
+    {
+      "source": "Blood Dragon Tooth",
+      "target": "Edgeless sword Li Yao created at the Skyhill Sword Seminar. (血龙牙)",
+      "type": "terminology"
+    },
+    {
+      "source": "Heavenly Saints City",
+      "target": "Major space city in the Flying Star Sector. Li Yao's next destination. (天圣城)",
+      "type": "terminology"
+    },
+    {
+      "source": "Dim Flame Belt",
+      "target": "Dangerous space zone known as \"Wraiths' Wrath.\" Great Horn nearly destroyed crossing it. (暗焰带)",
+      "type": "terminology"
+    },
+    {
+      "source": "Wu Mayan v1",
+      "target": "Character: Wu Mayan v1. Version: Ch 562-3269",
+      "type": "character"
+    },
+    {
+      "source": "Xie Anan v1",
+      "target": "Character: Xie Anan v1. Version: Ch 480-700",
+      "type": "character"
+    },
+    {
+      "source": "Fengyu Zhong v1",
+      "target": "Character: Fengyu Zhong v1. Version: Ch 467-541",
+      "type": "character"
+    },
+    {
+      "source": "Li Yao v6",
+      "target": "Character: Li Yao v6. Version: Ch 1415-1946",
+      "type": "character"
+    },
+    {
+      "source": "Ding Lingdang v1",
+      "target": "Character: Ding Lingdang v1. Version: Ch 47-350",
+      "type": "character"
+    },
+    {
+      "source": "Ding Lingdang v2",
+      "target": "Character: Ding Lingdang v2. Version: Ch 351-1414",
+      "type": "character"
+    },
+    {
+      "source": "Jin Xinyue v2",
+      "target": "Character: Jin Xinyue v2. Version: Ch 1186-3269",
+      "type": "character"
+    },
+    {
+      "source": "Li Yao v5",
+      "target": "Character: Li Yao v5. Version: Ch 883-1414",
+      "type": "character"
+    },
+    {
+      "source": "Jin Tuyi v1",
+      "target": "Character: Jin Tuyi v1. Version: Ch 981-1185",
+      "type": "character"
+    },
+    {
+      "source": "Li Yao v1",
+      "target": "Character: Li Yao v1. Version: Ch 1-100",
+      "type": "character"
+    },
+    {
+      "source": "Sha Yulan v1",
+      "target": "Character: Sha Yulan v1. Version: Ch 548-636",
+      "type": "character"
+    },
+    {
+      "source": "Jin Xinyue v1",
+      "target": "Character: Jin Xinyue v1. Version: Ch 883-1185",
+      "type": "character"
+    },
+    {
+      "source": "Bai Xinghe v1",
+      "target": "Character: Bai Xinghe v1. Version: Ch 710-790",
+      "type": "character"
+    },
+    {
+      "source": "Lu Zui v1",
+      "target": "Character: Lu Zui v1. Version: Ch 1059-1185",
+      "type": "character"
+    },
+    {
+      "source": "Yuan Manqiu v1",
+      "target": "Character: Yuan Manqiu v1. Version: Ch 128-500",
+      "type": "character"
+    },
+    {
+      "source": "Long Yangjun v1",
+      "target": "Character: Long Yangjun v1. Version: Ch 1415-3269",
+      "type": "character"
+    },
+    {
+      "source": "Li Yao v4",
+      "target": "Character: Li Yao v4. Version: Ch 641-882",
+      "type": "character"
+    },
+    {
+      "source": "Mo Xuan v1",
+      "target": "Character: Mo Xuan v1. Version: Ch 438-1783",
+      "type": "character"
+    },
+    {
+      "source": "Si Jiaxue v1",
+      "target": "Character: Si Jiaxue v1. Version: Ch 7-100",
+      "type": "character"
+    },
+    {
+      "source": "Li Yao v3",
+      "target": "Character: Li Yao v3. Version: Ch 351-640",
+      "type": "character"
+    },
+    {
+      "source": "Xiong Wuji v1",
+      "target": "Character: Xiong Wuji v1. Version: Ch 548-636",
+      "type": "character"
+    },
+    {
+      "source": "Liu Li v1",
+      "target": "Character: Liu Li v1. Version: Ch 1947-2100",
+      "type": "character"
+    },
+    {
+      "source": "Li Yao v2",
+      "target": "Character: Li Yao v2. Version: Ch 101-350",
+      "type": "character"
+    },
+    {
+      "source": "Li Yao v7",
+      "target": "Character: Li Yao v7. Version: Ch 1947-3269",
+      "type": "character"
+    },
+    {
+      "source": "Jiang Shaoyang v1",
+      "target": "Character: Jiang Shaoyang v1. Version: Ch 208-500",
+      "type": "character"
+    },
+    {
+      "source": "Ding Lingdang v3",
+      "target": "Character: Ding Lingdang v3. Version: Ch 1415-3269",
+      "type": "character"
+    },
+    {
+      "source": "Huangpu Xiaoya v1",
+      "target": "Character: Huangpu Xiaoya v1. Version: Ch 505-524",
+      "type": "character"
+    }
+  ]
+}

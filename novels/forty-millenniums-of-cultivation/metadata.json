@@ -2,76 +2,86 @@
   "id": "forty-millenniums-of-cultivation",
   "title": "Forty Millenniums of Cultivation",
   "alternateTitles": [
-    "修真四万年",
-    "修真四萬年",
-    "Xiu Zhen Si Wan Nian"
+    "Forty Thousand Years Of Cultivation",
+    "Xiuzhen Si Wan Nian",
+    "Starry Sky Forty Thousand Years (\u661f\u57df\u56db\u4e07\u5e74)"
   ],
   "metadata": {
     "originalLanguage": "Chinese",
-    "chapterCount": 3269,
+    "chapterCount": 3521,
     "genres": [
-      "Sci-Fi",
-      "Xianxia",
       "Action",
       "Adventure",
-      "Mecha"
+      "Fantasy",
+      "Mecha",
+      "School Life",
+      "Sci-fi",
+      "Seinen",
+      "Xuanhuan"
     ],
-    "description": "A sprawling sci-fi xianxia epic following Li Yao from scrap-heaps and artifact repair into interstellar ideological war, cultivation, and the future of human civilization.",
-    "coverImageUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/cover.jpg",
-    "author": "卧牛真人 (The Enlightened Master Crouching Cow)",
+    "description": "In a world teeming with cultivators, Li Yao, who makes his living collecting scrap metal, encounters the soul of a titan powerhouse from forty thousand years in the past. Even if this universe is truly nothing more than a brutal bloody shadowy forest, we Cultivators will burn all that we have just to give off a single weak flickering spark in the darkness!",
+    "author": "The Enlightened Master Crouching Cow (\u5367\u725b\u771f\u4eba)",
     "sourceLinks": {
-      "novelUpdates": "https://www.novelupdates.com/series/forty-millenniums-of-cultivation/",
-      "rawSource": "https://www.qidian.com/book/3439785/"
+      "novelUpdates": "https://www.novelupdates.com/series/forty-millenniums-of-cultivation/"
     },
     "tags": [
+      "Academy",
       "Artifact Crafting",
-      "Space Warfare",
-      "Ideological Conflict",
-      "Cultivation"
+      "Cultivation",
+      "Cunning Protagonist",
+      "Futuristic Setting",
+      "Genius Protagonist",
+      "Money Grubber",
+      "Outer Space",
+      "Philosophical"
     ],
-    "lastUpdated": "2026-03-30"
+    "publicationStatus": "Completed",
+    "lastUpdated": "2026-04-08"
   },
   "versions": [
     {
-      "versionId": "v1-composite",
-      "displayName": "Golden-Age PDF Partial + NovelHi Hole Recovery",
+      "versionId": "v1-st-enhanced",
+      "displayName": "ST-Enhanced AI Translation",
       "translator": {
-        "name": "LexiconForge composite (community sources)"
+        "name": "LexiconForge (ST Bridge)",
+        "link": "https://github.com/anantham/LexiconForge"
       },
-      "sessionJsonUrl": "https://media.githubusercontent.com/media/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/session.json",
+      "sessionJsonUrl": "./session.json",
       "targetLanguage": "English",
       "style": "faithful",
       "features": [
-        "fan-translation",
-        "pdf-range",
-        "manual-hole-recovery"
+        "glossary",
+        "character-cards"
       ],
       "chapterRange": {
         "from": 1,
-        "to": 3269
+        "to": 3521
       },
       "completionStatus": "In Progress",
-      "lastUpdated": "2026-03-30",
+      "lastUpdated": "2026-04-08",
       "stats": {
         "downloads": 0,
-        "fileSize": "59.48MB",
+        "fileSize": "0MB",
         "content": {
           "totalImages": 0,
           "totalFootnotes": 0,
-          "totalRawChapters": 3269,
-          "totalTranslatedChapters": 2384,
+          "totalRawChapters": 3521,
+          "totalTranslatedChapters": 3273,
           "avgImagesPerChapter": 0,
-          "medianImagesPerChapter": 0,
-          "avgFootnotesPerChapter": 0,
-          "medianFootnotesPerChapter": 0,
-          "avgChapterLength": 11688.930369127516,
-          "medianChapterLength": 11688.930369127516
+          "avgFootnotesPerChapter": 0
         },
         "translation": {
-          "translationType": "human",
+          "translationType": "ai",
           "feedbackCount": 0
         }
-      }
+      },
+      "glossaryLayers": [
+        {
+          "tier": "book",
+          "id": "fmc-st-glossary",
+          "url": "./glossary.json"
+        }
+      ]
     }
   ]
 }

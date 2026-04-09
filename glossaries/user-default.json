@@ -1,0 +1,13 @@
+{
+  "format": "lexiconforge-glossary-v2",
+  "tier": "user",
+  "id": "user",
+  "inherits": [],
+  "description": "User-level translation preferences. Applied as the base layer to ALL novels. Genre and book glossaries override these.",
+  "resolution": "Lowest priority. Everything overrides user defaults.",
+  "entries": [
+    {"source": "丹田", "target": "dantian", "note": "Always keep untranslated — universally recognized."},
+    {"source": "道", "target": "Dao", "note": "Always keep untranslated. Never 'the Way' or 'the Path'."},
+    {"source": "气", "target": "qi", "note": "When used alone as a concept, keep untranslated. When in compounds, translate."}
+  ]
+}
