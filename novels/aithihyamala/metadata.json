@@ -1,0 +1,76 @@
+{
+  "id": "aithihyamala",
+  "title": "ഐതിഹ്യമാല — Aithihyamala",
+  "alternateTitles": [
+    "Aithihyamala",
+    "The Garland of Legends",
+    "ഐതിഹ്യമാല"
+  ],
+  "metadata": {
+    "originalLanguage": "Malayalam",
+    "targetLanguage": "English",
+    "chapterCount": 126,
+    "genres": [
+      "Folklore",
+      "Legends",
+      "Mythology",
+      "Classics"
+    ],
+    "description": "Kerala's great compendium of temple legends — deities acquiring their territories, yakshis and sorcerers, rajas and namboothiris — collected by Kottarathil Sankunni between 1909 and 1934 from people who still remembered them. Public domain; Malayalam text from ml.wikisource.org. The English is an unreviewed AI draft, shown for parallel reading, not authority. For the deep reader — every word sounded out, hover meanings, script-anatomy etymology mode — visit /malayalam on this site.",
+    "coverImageUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/aithihyamala/cover.svg",
+    "author": "കൊട്ടാരത്തിൽ ശങ്കുണ്ണി (Kottarathil Sankunni)",
+    "sourceLinks": {
+      "wikisource": "https://ml.wikisource.org/wiki/ഐതിഹ്യമാല"
+    },
+    "tags": [
+      "Public Domain",
+      "Malayalam",
+      "Kerala",
+      "Temple Legends",
+      "Parallel Text"
+    ],
+    "publicationStatus": "Ongoing (1 of 126 legends)",
+    "lastUpdated": "2026-07-11"
+  },
+  "versions": [
+    {
+      "versionId": "v1-opus-draft",
+      "displayName": "Opus draft translation (2026)",
+      "translator": {
+        "name": "Claude Opus 4.8 — unreviewed AI draft",
+        "link": "https://read.adityaarpitha.com/malayalam"
+      },
+      "sessionJsonUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/aithihyamala/session.json",
+      "targetLanguage": "English",
+      "style": "faithful",
+      "features": [],
+      "chapterRange": {
+        "from": 64,
+        "to": 64
+      },
+      "completionStatus": "In Progress",
+      "lastUpdated": "2026-07-11",
+      "contentNotes": "Chapter 64 (ഊരകത്ത് അമ്മതിരുവടി) only, so far. Malayalam is public domain (author d. 1937); English is an original AI draft pending native review.",
+      "stats": {
+        "downloads": 0,
+        "fileSize": "0MB",
+        "content": {
+          "totalImages": 0,
+          "totalFootnotes": 0,
+          "totalRawChapters": 1,
+          "totalTranslatedChapters": 1,
+          "avgImagesPerChapter": 0,
+          "medianImagesPerChapter": 0,
+          "avgFootnotesPerChapter": 0,
+          "medianFootnotesPerChapter": 0,
+          "avgChapterLength": 25029,
+          "medianChapterLength": 25029
+        },
+        "translation": {
+          "translationType": "ai",
+          "feedbackCount": 0
+        }
+      }
+    }
+  ]
+}

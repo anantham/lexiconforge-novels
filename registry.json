@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-04-08",
+  "lastUpdated": "2026-07-11",
   "description": "Community registry for LexiconForge novel translations",
   "novels": [
     {
@@ -14,6 +14,10 @@
     {
       "id": "forty-millenniums-of-cultivation",
       "metadataUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/forty-millenniums-of-cultivation/metadata.json"
+    },
+    {
+      "id": "aithihyamala",
+      "metadataUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/aithihyamala/metadata.json"
     }
   ]
 }
