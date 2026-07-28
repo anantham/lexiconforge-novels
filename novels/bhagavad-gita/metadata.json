@@ -1,0 +1,80 @@
+{
+  "id": "bhagavad-gita",
+  "title": "भगवद्गीता — Bhagavad Gītā",
+  "alternateTitles": [
+    "Bhagavad Gita",
+    "Bhagavad Gītā",
+    "The Song of the Lord",
+    "श्रीमद्भगवद्गीता"
+  ],
+  "metadata": {
+    "originalLanguage": "Sanskrit",
+    "targetLanguage": "English",
+    "chapterCount": 700,
+    "genres": [
+      "Hindu Scripture",
+      "Philosophy",
+      "Classics"
+    ],
+    "description": "The Bhagavad Gītā — 700 verses, the dialogue of Krishna and Arjuna on the field of Kurukshetra. The Sanskrit mūla is the public-domain text of sa.wikisource.org, parsed verse-by-verse. The English is Swami Swarupananda's 1909 published translation (Advaita Ashrama) — a real human translation in the public domain, NOT an AI draft — aligned one-to-one with the Sanskrit. 14 of the 18 chapters carry the English so far; chapters 7, 8, 9 and 13 are shown Sanskrit-only, held back because their OCR needs manual verse-alignment (the safety gate refuses any chapter it cannot pair with certainty). For the deep word-by-word reader — every word sounded out, hover meanings, script-anatomy etymology — visit /gita on this site.",
+    "coverImageUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/bhagavad-gita/cover.svg",
+    "author": "Vyāsa (attributed)",
+    "sourceLinks": {
+      "wikisource": "https://sa.wikisource.org/wiki/भगवद्गीता",
+      "translation": "https://archive.org/details/in.ernet.dli.2015.237563"
+    },
+    "tags": [
+      "Public Domain",
+      "Sanskrit",
+      "Bhagavad Gita",
+      "Parallel Text",
+      "Scripture"
+    ],
+    "publicationStatus": "Parallel text (557 of 700 verses with English; 14 of 18 chapters)",
+    "lastUpdated": "2026-07-28",
+    "grouping": {
+      "scheme": "chapter-verse"
+    }
+  },
+  "versions": [
+    {
+      "versionId": "v1-swarupananda-1909",
+      "displayName": "Swami Swarupananda (1909) — public domain",
+      "translator": {
+        "name": "Swami Swarupananda (1909) — public domain",
+        "link": "/gita"
+      },
+      "sessionJsonUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/bhagavad-gita/session.json",
+      "targetLanguage": "English",
+      "style": "faithful",
+      "features": [],
+      "chapterRange": {
+        "from": 1001,
+        "to": 18078
+      },
+      "completionStatus": "In Progress",
+      "lastUpdated": "2026-07-28",
+      "contentNotes": "Sanskrit mūla: sa.wikisource.org (भगवद्गीता), public domain, all 700 verses. English: Swami Swarupananda, Srimad Bhagavad Gita, Advaita Ashrama 1909 (public domain), OCR from archive.org, extracted and aligned by verse sequence. Shipped with English: chapters 1-6, 10-12, 14-18 (14 chapters). Sanskrit-only pending manual alignment: chapters 7, 8, 9, 13. A small number of individual verses in the English chapters are shown Sanskrit-only where OCR left the translation unusable.",
+      "stats": {
+        "downloads": 0,
+        "fileSize": "0.77MB",
+        "content": {
+          "totalImages": 0,
+          "totalFootnotes": 0,
+          "totalRawChapters": 700,
+          "totalTranslatedChapters": 557,
+          "avgImagesPerChapter": 0,
+          "medianImagesPerChapter": 0,
+          "avgFootnotesPerChapter": 0,
+          "medianFootnotesPerChapter": 0,
+          "avgChapterLength": 94,
+          "medianChapterLength": 91
+        },
+        "translation": {
+          "translationType": "human",
+          "feedbackCount": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-28",
   "description": "Community registry for LexiconForge novel translations",
   "novels": [
     {
@@ -18,6 +18,10 @@
     {
       "id": "aithihyamala",
       "metadataUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/aithihyamala/metadata.json"
+    },
+    {
+      "id": "bhagavad-gita",
+      "metadataUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/bhagavad-gita/metadata.json"
     }
   ]
 }
