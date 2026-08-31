@@ -25,6 +25,7 @@ Thank you for contributing translations to the community!
    - `metadata.json`
    - `session.json`
    - `chapter-manifest.json`
+   - `chapters/` (when the manifest contains chapter artifact references)
 
 ### Option B: Manual Creation
 
@@ -107,6 +108,9 @@ Create `metadata.json` following this template:
 
    # Add the exact identity/checksum manifest
    cp ~/Downloads/chapter-manifest.json novels/your-novel-id/
+
+   # Add independently fetchable chapter artifacts when exported
+   cp -R ~/Downloads/chapters novels/your-novel-id/
    ```
 
 4. **Update registry.json**:
@@ -130,7 +134,9 @@ Create `metadata.json` following this template:
    A version that declares `chapterManifestUrl` is blocked if its metadata counts/range, ordered
    chapter tuples, session byte length, or SHA-256 differ from the manifest. `chapterCount` describes
    the expected size of the work; `stats.content.totalRawChapters` and `chapterRange` describe only
-   what this version currently publishes.
+   what this version currently publishes. If any manifest identity declares an `artifact`, every
+   identity must declare one, and verification checks each artifact's bytes, checksum, document
+   format, novel/version identity, and chapter number/stable ID/canonical URL tuple.
 
 6. **Create Pull Request** on GitHub
 
@@ -147,7 +153,7 @@ If you want to add an alternate translation/version:
 
 ## Hosting Large Files
 
-If `session.json` is too large for GitHub (>100MB):
+If `session.json` or chapter artifacts are too large for GitHub (>100MB):
 
 **Option 1: GitHub Releases**
 - Create a release
@@ -161,7 +167,7 @@ If `session.json` is too large for GitHub (>100MB):
 
 **Option 3: Git LFS**
 - Use Git Large File Storage
-- Track session.json files
+- Track `session.json` and `chapters/*.json` files
 - Automatic with GitHub
 
 ## Review Process

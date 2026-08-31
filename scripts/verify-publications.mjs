@@ -5,6 +5,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { validateLibraryPublication } from './lib/publication-integrity.mjs';
+import { validateChapterArtifact } from './lib/chapter-artifacts.mjs';
 
 const repositoryRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const novelsRoot = path.join(repositoryRoot, 'novels');
@@ -53,7 +54,31 @@ const verifyNovelDirectory = async (directoryName) => {
       );
     }
     validateLibraryPublication({ metadata, session, sessionJson, manifest });
-    messages.push(`VERIFIED ${metadata.id}/${version.versionId}: ${manifest.publishedChapterCount} chapters`);
+    const artifactIdentities = manifest.chapters.filter((identity) => identity.artifact);
+    if (artifactIdentities.length > 0 && artifactIdentities.length !== manifest.chapters.length) {
+      throw new Error(
+        `${metadata.id}/${version.versionId}: partial artifact coverage `
+        + `${artifactIdentities.length}/${manifest.chapters.length} is not publishable.`,
+      );
+    }
+    for (const identity of artifactIdentities) {
+      const artifactPath = path.join(
+        directory,
+        'chapters',
+        localFileName(identity.artifact.url, 'chapter artifact URL'),
+      );
+      const { value: artifactJson, parsed: artifactDocument } = await parseJson(artifactPath);
+      validateChapterArtifact({
+        json: artifactJson,
+        document: artifactDocument,
+        reference: identity.artifact,
+        context: { novelId: metadata.id, versionId: version.versionId, identity },
+      });
+    }
+    messages.push(
+      `VERIFIED ${metadata.id}/${version.versionId}: ${manifest.publishedChapterCount} chapters, `
+      + `${artifactIdentities.length} artifacts`,
+    );
   }
   return { protectedCount: protectedVersions.length, messages };
 };

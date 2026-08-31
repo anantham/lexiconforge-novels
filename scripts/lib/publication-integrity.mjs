@@ -138,6 +138,21 @@ const validateManifestShape = (manifest) => {
     return fail('manifest.session.sha256 must be a lowercase SHA-256 digest.');
   }
   requirePositiveInteger(manifest?.session?.byteLength, 'manifest.session.byteLength');
+  manifest.chapters.forEach((identity, index) => {
+    requirePositiveInteger(identity?.chapterNumber, `manifest.chapters[${index}].chapterNumber`);
+    requireString(identity?.stableId, `manifest.chapters[${index}].stableId`);
+    requireString(identity?.canonicalUrl, `manifest.chapters[${index}].canonicalUrl`);
+    if (identity?.artifact) {
+      requireString(identity.artifact.url, `manifest.chapters[${index}].artifact.url`);
+      if (!/^[a-f0-9]{64}$/.test(identity.artifact.sha256 ?? '')) {
+        fail(`manifest.chapters[${index}].artifact.sha256 must be a lowercase SHA-256 digest.`);
+      }
+      requirePositiveInteger(
+        identity.artifact.byteLength,
+        `manifest.chapters[${index}].artifact.byteLength`,
+      );
+    }
+  });
   return manifest;
 };
 
