@@ -1,0 +1,2396 @@
+{
+  "format": "lexiconforge-chapter-manifest",
+  "version": "1.0",
+  "novelId": "dungeon-defense-wn",
+  "versionId": "v1-primary",
+  "generatedAt": "2026-08-31T08:30:00.000Z",
+  "expectedChapterCount": 509,
+  "publishedChapterCount": 476,
+  "session": {
+    "url": "https://media.githubusercontent.com/media/anantham/lexiconforge-novels/main/novels/dungeon-defense-wn/session.json",
+    "sha256": "d2ff34c4667a54eb0bf130d06ac939ad98acd6582451ad9fe120544412f9dcf7",
+    "byteLength": 271633227
+  },
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "stableId": "ch1_chcn1w_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912072"
+    },
+    {
+      "chapterNumber": 2,
+      "stableId": "ch2_z0z2lt_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912078"
+    },
+    {
+      "chapterNumber": 3,
+      "stableId": "ch3_adbdcr_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912084"
+    },
+    {
+      "chapterNumber": 4,
+      "stableId": "ch4_u5z2hy_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912102"
+    },
+    {
+      "chapterNumber": 5,
+      "stableId": "ch5_3jbh00_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912108"
+    },
+    {
+      "chapterNumber": 6,
+      "stableId": "ch6_dygb49_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912114"
+    },
+    {
+      "chapterNumber": 7,
+      "stableId": "ch7_er6dc8_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912120"
+    },
+    {
+      "chapterNumber": 8,
+      "stableId": "ch8_g2m7t1_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912126"
+    },
+    {
+      "chapterNumber": 9,
+      "stableId": "ch9_yc8w2u_2pnj",
+      "canonicalUrl": "https://booktoki468.com/novel/3912132"
+    },
+    {
+      "chapterNumber": 10,
+      "stableId": "ch10_i24wrz_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912138"
+    },
+    {
+      "chapterNumber": 11,
+      "stableId": "ch11_u457q2_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912144"
+    },
+    {
+      "chapterNumber": 12,
+      "stableId": "ch12_4v16vt_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912150"
+    },
+    {
+      "chapterNumber": 13,
+      "stableId": "ch13_457jss_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912156"
+    },
+    {
+      "chapterNumber": 14,
+      "stableId": "ch14_pnbb57_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912162"
+    },
+    {
+      "chapterNumber": 15,
+      "stableId": "ch15_onn3zx_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912168"
+    },
+    {
+      "chapterNumber": 16,
+      "stableId": "ch16_sdjvzk_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912174"
+    },
+    {
+      "chapterNumber": 17,
+      "stableId": "ch17_mnnztb_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912183"
+    },
+    {
+      "chapterNumber": 18,
+      "stableId": "ch18_a9zsrc_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912189"
+    },
+    {
+      "chapterNumber": 19,
+      "stableId": "ch19_8i86z5_d352",
+      "canonicalUrl": "https://booktoki468.com/novel/3912195"
+    },
+    {
+      "chapterNumber": 20,
+      "stableId": "ch20_wmmg7b_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912201"
+    },
+    {
+      "chapterNumber": 21,
+      "stableId": "ch21_8eynrm_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912210"
+    },
+    {
+      "chapterNumber": 22,
+      "stableId": "ch22_uj07bh_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912216"
+    },
+    {
+      "chapterNumber": 23,
+      "stableId": "ch23_9ocghd_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912222"
+    },
+    {
+      "chapterNumber": 24,
+      "stableId": "ch24_vxn0lf_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912228"
+    },
+    {
+      "chapterNumber": 25,
+      "stableId": "ch25_2zri2c_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912237"
+    },
+    {
+      "chapterNumber": 26,
+      "stableId": "ch26_j30lf4_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912243"
+    },
+    {
+      "chapterNumber": 27,
+      "stableId": "ch27_x0gohd_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912249"
+    },
+    {
+      "chapterNumber": 28,
+      "stableId": "ch28_7pvsx_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912255"
+    },
+    {
+      "chapterNumber": 29,
+      "stableId": "ch29_85qm1s_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912261"
+    },
+    {
+      "chapterNumber": 30,
+      "stableId": "ch30_56sdjp_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912267"
+    },
+    {
+      "chapterNumber": 31,
+      "stableId": "ch31_th635r_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912273"
+    },
+    {
+      "chapterNumber": 32,
+      "stableId": "ch32_th7e0o_d351",
+      "canonicalUrl": "https://booktoki468.com/novel/3912279"
+    },
+    {
+      "chapterNumber": 33,
+      "stableId": "ch33_kj4t5c_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912285"
+    },
+    {
+      "chapterNumber": 34,
+      "stableId": "ch34_2pw2md_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912297"
+    },
+    {
+      "chapterNumber": 35,
+      "stableId": "ch35_nh00sn_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912303"
+    },
+    {
+      "chapterNumber": 36,
+      "stableId": "ch36_e2xv3p_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912309"
+    },
+    {
+      "chapterNumber": 37,
+      "stableId": "ch37_c8wyyo_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912315"
+    },
+    {
+      "chapterNumber": 38,
+      "stableId": "ch38_3dhoyh_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912321"
+    },
+    {
+      "chapterNumber": 39,
+      "stableId": "ch39_8zvyqd_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912330"
+    },
+    {
+      "chapterNumber": 40,
+      "stableId": "ch40_4l77e7_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912336"
+    },
+    {
+      "chapterNumber": 41,
+      "stableId": "ch41_2337gx_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912342"
+    },
+    {
+      "chapterNumber": 42,
+      "stableId": "ch42_jssv30_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912348"
+    },
+    {
+      "chapterNumber": 43,
+      "stableId": "ch43_db1hau_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912354"
+    },
+    {
+      "chapterNumber": 44,
+      "stableId": "ch44_ozuzfz_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912360"
+    },
+    {
+      "chapterNumber": 45,
+      "stableId": "ch45_whfont_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912366"
+    },
+    {
+      "chapterNumber": 46,
+      "stableId": "ch46_1pzqpf_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912372"
+    },
+    {
+      "chapterNumber": 47,
+      "stableId": "ch47_agy6wj_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912378"
+    },
+    {
+      "chapterNumber": 48,
+      "stableId": "ch48_hc10jn_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912384"
+    },
+    {
+      "chapterNumber": 49,
+      "stableId": "ch49_3k7ynf_d350",
+      "canonicalUrl": "https://booktoki468.com/novel/3912393"
+    },
+    {
+      "chapterNumber": 50,
+      "stableId": "ch50_uvobt0_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912396"
+    },
+    {
+      "chapterNumber": 51,
+      "stableId": "ch51_v61h9w_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912405"
+    },
+    {
+      "chapterNumber": 52,
+      "stableId": "ch52_ga3gfc_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912414"
+    },
+    {
+      "chapterNumber": 53,
+      "stableId": "ch53_mn2ivl_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912420"
+    },
+    {
+      "chapterNumber": 54,
+      "stableId": "ch54_5cayck_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912426"
+    },
+    {
+      "chapterNumber": 55,
+      "stableId": "ch55_aoukjf_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912435"
+    },
+    {
+      "chapterNumber": 56,
+      "stableId": "ch56_5awf7a_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912441"
+    },
+    {
+      "chapterNumber": 57,
+      "stableId": "ch57_8dtcg2_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912447"
+    },
+    {
+      "chapterNumber": 58,
+      "stableId": "ch58_gidkyo_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912453"
+    },
+    {
+      "chapterNumber": 59,
+      "stableId": "ch59_imothd_d34z",
+      "canonicalUrl": "https://booktoki468.com/novel/3912459"
+    },
+    {
+      "chapterNumber": 60,
+      "stableId": "ch60_mxzast_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912465"
+    },
+    {
+      "chapterNumber": 61,
+      "stableId": "ch61_3rn2sj_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912471"
+    },
+    {
+      "chapterNumber": 62,
+      "stableId": "ch62_g5pwlp_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912477"
+    },
+    {
+      "chapterNumber": 63,
+      "stableId": "ch63_v0djlr_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912483"
+    },
+    {
+      "chapterNumber": 64,
+      "stableId": "ch64_q5ene0_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912495"
+    },
+    {
+      "chapterNumber": 65,
+      "stableId": "ch65_ea0m8c_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912501"
+    },
+    {
+      "chapterNumber": 66,
+      "stableId": "ch66_lojcas_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912507"
+    },
+    {
+      "chapterNumber": 67,
+      "stableId": "ch67_2gzbzg_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912513"
+    },
+    {
+      "chapterNumber": 68,
+      "stableId": "ch68_eprd0c_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912519"
+    },
+    {
+      "chapterNumber": 69,
+      "stableId": "ch69_myt9xq_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912522"
+    },
+    {
+      "chapterNumber": 70,
+      "stableId": "ch70_7zardp_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912528"
+    },
+    {
+      "chapterNumber": 71,
+      "stableId": "ch71_udb412_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912537"
+    },
+    {
+      "chapterNumber": 72,
+      "stableId": "ch72_22qcyo_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912543"
+    },
+    {
+      "chapterNumber": 73,
+      "stableId": "ch73_mgypy0_d34y",
+      "canonicalUrl": "https://booktoki468.com/novel/3912549"
+    },
+    {
+      "chapterNumber": 74,
+      "stableId": "ch74_2ycbk5_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912555"
+    },
+    {
+      "chapterNumber": 75,
+      "stableId": "ch75_s80q2p_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912561"
+    },
+    {
+      "chapterNumber": 76,
+      "stableId": "ch76_fpb6ua_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912567"
+    },
+    {
+      "chapterNumber": 77,
+      "stableId": "ch77_49036b_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912573"
+    },
+    {
+      "chapterNumber": 78,
+      "stableId": "ch78_acf23w_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912579"
+    },
+    {
+      "chapterNumber": 79,
+      "stableId": "ch79_b3kiox_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912585"
+    },
+    {
+      "chapterNumber": 80,
+      "stableId": "ch80_plwnwb_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912591"
+    },
+    {
+      "chapterNumber": 81,
+      "stableId": "ch81_37rl0x_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912597"
+    },
+    {
+      "chapterNumber": 82,
+      "stableId": "ch82_edolt3_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912603"
+    },
+    {
+      "chapterNumber": 83,
+      "stableId": "ch83_82muec_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912609"
+    },
+    {
+      "chapterNumber": 84,
+      "stableId": "ch84_dbe2tp_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912615"
+    },
+    {
+      "chapterNumber": 85,
+      "stableId": "ch85_s42kc2_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912621"
+    },
+    {
+      "chapterNumber": 86,
+      "stableId": "ch86_dz4lgl_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912627"
+    },
+    {
+      "chapterNumber": 87,
+      "stableId": "ch87_ish8k1_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912633"
+    },
+    {
+      "chapterNumber": 88,
+      "stableId": "ch88_anq5ws_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912639"
+    },
+    {
+      "chapterNumber": 89,
+      "stableId": "ch89_h8b3xm_d34x",
+      "canonicalUrl": "https://booktoki468.com/novel/3912645"
+    },
+    {
+      "chapterNumber": 90,
+      "stableId": "ch90_i5pjh6_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912651"
+    },
+    {
+      "chapterNumber": 91,
+      "stableId": "ch91_8ablsn_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912657"
+    },
+    {
+      "chapterNumber": 92,
+      "stableId": "ch92_kvqizd_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912669"
+    },
+    {
+      "chapterNumber": 93,
+      "stableId": "ch93_xwujot_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912675"
+    },
+    {
+      "chapterNumber": 94,
+      "stableId": "ch94_ohy0kw_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912687"
+    },
+    {
+      "chapterNumber": 95,
+      "stableId": "ch95_q8nrek_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912693"
+    },
+    {
+      "chapterNumber": 96,
+      "stableId": "ch96_6nk2c8_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912699"
+    },
+    {
+      "chapterNumber": 97,
+      "stableId": "ch97_ag9p9t_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912705"
+    },
+    {
+      "chapterNumber": 98,
+      "stableId": "ch98_yc6xmy_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912711"
+    },
+    {
+      "chapterNumber": 99,
+      "stableId": "ch99_ai0qm4_d34w",
+      "canonicalUrl": "https://booktoki468.com/novel/3912720"
+    },
+    {
+      "chapterNumber": 100,
+      "stableId": "ch100_lo9368_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912726"
+    },
+    {
+      "chapterNumber": 101,
+      "stableId": "ch101_g564f5_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912732"
+    },
+    {
+      "chapterNumber": 102,
+      "stableId": "ch102_3lpo07_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912738"
+    },
+    {
+      "chapterNumber": 103,
+      "stableId": "ch103_fc26h2_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912744"
+    },
+    {
+      "chapterNumber": 104,
+      "stableId": "ch104_2nbc4i_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912750"
+    },
+    {
+      "chapterNumber": 105,
+      "stableId": "ch105_yal12r_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912756"
+    },
+    {
+      "chapterNumber": 106,
+      "stableId": "ch106_s3dcci_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912762"
+    },
+    {
+      "chapterNumber": 107,
+      "stableId": "ch107_slzba9_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912771"
+    },
+    {
+      "chapterNumber": 108,
+      "stableId": "ch108_ihprmf_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912777"
+    },
+    {
+      "chapterNumber": 109,
+      "stableId": "ch109_wvtago_kgbw",
+      "canonicalUrl": "https://booktoki468.com/novel/3912783"
+    },
+    {
+      "chapterNumber": 110,
+      "stableId": "ch110_hsnyz0_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912789"
+    },
+    {
+      "chapterNumber": 111,
+      "stableId": "ch111_ydy8qe_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912795"
+    },
+    {
+      "chapterNumber": 112,
+      "stableId": "ch112_ce83ah_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912801"
+    },
+    {
+      "chapterNumber": 113,
+      "stableId": "ch113_slqej6_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912807"
+    },
+    {
+      "chapterNumber": 114,
+      "stableId": "ch114_rign07_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912813"
+    },
+    {
+      "chapterNumber": 115,
+      "stableId": "ch115_oa3b75_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912819"
+    },
+    {
+      "chapterNumber": 116,
+      "stableId": "ch116_ajud5r_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912825"
+    },
+    {
+      "chapterNumber": 117,
+      "stableId": "ch117_pjq4nq_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912831"
+    },
+    {
+      "chapterNumber": 118,
+      "stableId": "ch118_dy0o55_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912840"
+    },
+    {
+      "chapterNumber": 119,
+      "stableId": "ch119_yptay2_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912846"
+    },
+    {
+      "chapterNumber": 120,
+      "stableId": "ch120_lqxqho_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912852"
+    },
+    {
+      "chapterNumber": 121,
+      "stableId": "ch121_gd5be7_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912858"
+    },
+    {
+      "chapterNumber": 122,
+      "stableId": "ch122_vexq2q_kgbx",
+      "canonicalUrl": "https://booktoki468.com/novel/3912864"
+    },
+    {
+      "chapterNumber": 123,
+      "stableId": "ch123_5788c_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912870"
+    },
+    {
+      "chapterNumber": 124,
+      "stableId": "ch124_ryq9hs_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912882"
+    },
+    {
+      "chapterNumber": 125,
+      "stableId": "ch125_nh5pa8_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912888"
+    },
+    {
+      "chapterNumber": 126,
+      "stableId": "ch126_bgo1ia_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912894"
+    },
+    {
+      "chapterNumber": 127,
+      "stableId": "ch127_qqe6xk_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912900"
+    },
+    {
+      "chapterNumber": 128,
+      "stableId": "ch128_twfkwl_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912906"
+    },
+    {
+      "chapterNumber": 129,
+      "stableId": "ch129_xb41d0_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912912"
+    },
+    {
+      "chapterNumber": 130,
+      "stableId": "ch130_g2qg8x_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912915"
+    },
+    {
+      "chapterNumber": 131,
+      "stableId": "ch131_qa06bk_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912921"
+    },
+    {
+      "chapterNumber": 132,
+      "stableId": "ch132_baufn3_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912927"
+    },
+    {
+      "chapterNumber": 133,
+      "stableId": "ch133_gb08ex_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912933"
+    },
+    {
+      "chapterNumber": 134,
+      "stableId": "ch134_u01lb9_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912939"
+    },
+    {
+      "chapterNumber": 135,
+      "stableId": "ch135_7smekt_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912945"
+    },
+    {
+      "chapterNumber": 136,
+      "stableId": "ch136_ugxbfm_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912951"
+    },
+    {
+      "chapterNumber": 137,
+      "stableId": "ch137_o089b9_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912957"
+    },
+    {
+      "chapterNumber": 138,
+      "stableId": "ch138_dn0sku_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912963"
+    },
+    {
+      "chapterNumber": 139,
+      "stableId": "ch139_5ojn1c_kgby",
+      "canonicalUrl": "https://booktoki468.com/novel/3912969"
+    },
+    {
+      "chapterNumber": 140,
+      "stableId": "ch140_649911_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3912978"
+    },
+    {
+      "chapterNumber": 141,
+      "stableId": "ch141_lra439_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3912984"
+    },
+    {
+      "chapterNumber": 142,
+      "stableId": "ch142_wdu88x_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3912990"
+    },
+    {
+      "chapterNumber": 143,
+      "stableId": "ch143_unzdi2_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3912999"
+    },
+    {
+      "chapterNumber": 144,
+      "stableId": "ch144_cxvow4_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3913005"
+    },
+    {
+      "chapterNumber": 145,
+      "stableId": "ch145_9m927j_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3913011"
+    },
+    {
+      "chapterNumber": 146,
+      "stableId": "ch146_sy5un3_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3913017"
+    },
+    {
+      "chapterNumber": 147,
+      "stableId": "ch147_udv1fr_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3913023"
+    },
+    {
+      "chapterNumber": 148,
+      "stableId": "ch148_net5kp_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3913029"
+    },
+    {
+      "chapterNumber": 149,
+      "stableId": "ch149_c4rf15_kgbz",
+      "canonicalUrl": "https://booktoki468.com/novel/3913035"
+    },
+    {
+      "chapterNumber": 150,
+      "stableId": "ch150_vz17uc_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913041"
+    },
+    {
+      "chapterNumber": 151,
+      "stableId": "ch151_7592gc_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913047"
+    },
+    {
+      "chapterNumber": 152,
+      "stableId": "ch152_pm809_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913053"
+    },
+    {
+      "chapterNumber": 153,
+      "stableId": "ch153_gdw04c_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913059"
+    },
+    {
+      "chapterNumber": 154,
+      "stableId": "ch154_lp7bpv_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913071"
+    },
+    {
+      "chapterNumber": 155,
+      "stableId": "ch155_gq9d1p_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913077"
+    },
+    {
+      "chapterNumber": 156,
+      "stableId": "ch156_rxto0d_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913083"
+    },
+    {
+      "chapterNumber": 157,
+      "stableId": "ch157_kuft9r_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913089"
+    },
+    {
+      "chapterNumber": 158,
+      "stableId": "ch158_7s80bz_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913095"
+    },
+    {
+      "chapterNumber": 159,
+      "stableId": "ch159_rbu50i_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913101"
+    },
+    {
+      "chapterNumber": 160,
+      "stableId": "ch160_9srgt0_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913107"
+    },
+    {
+      "chapterNumber": 161,
+      "stableId": "ch161_ywus2q_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913113"
+    },
+    {
+      "chapterNumber": 162,
+      "stableId": "ch162_d8ijn2_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913119"
+    },
+    {
+      "chapterNumber": 163,
+      "stableId": "ch163_p6k5lu_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913125"
+    },
+    {
+      "chapterNumber": 164,
+      "stableId": "ch164_wet9ee_kgc0",
+      "canonicalUrl": "https://booktoki468.com/novel/3913131"
+    },
+    {
+      "chapterNumber": 165,
+      "stableId": "ch165_h6nq9_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913140"
+    },
+    {
+      "chapterNumber": 166,
+      "stableId": "ch166_ghymzl_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913149"
+    },
+    {
+      "chapterNumber": 167,
+      "stableId": "ch167_g2buqv_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913155"
+    },
+    {
+      "chapterNumber": 168,
+      "stableId": "ch168_dmrb5m_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913161"
+    },
+    {
+      "chapterNumber": 169,
+      "stableId": "ch169_22cdwc_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913167"
+    },
+    {
+      "chapterNumber": 170,
+      "stableId": "ch170_rxknai_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913173"
+    },
+    {
+      "chapterNumber": 171,
+      "stableId": "ch171_1nh1ly_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913179"
+    },
+    {
+      "chapterNumber": 172,
+      "stableId": "ch172_83c994_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913185"
+    },
+    {
+      "chapterNumber": 173,
+      "stableId": "ch173_44wg5w_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913191"
+    },
+    {
+      "chapterNumber": 174,
+      "stableId": "ch174_qyh86j_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913197"
+    },
+    {
+      "chapterNumber": 175,
+      "stableId": "ch175_yhmdhw_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913200"
+    },
+    {
+      "chapterNumber": 176,
+      "stableId": "ch176_gfex3o_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913206"
+    },
+    {
+      "chapterNumber": 177,
+      "stableId": "ch177_jjm7bt_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913212"
+    },
+    {
+      "chapterNumber": 178,
+      "stableId": "ch178_5o5h7h_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913221"
+    },
+    {
+      "chapterNumber": 179,
+      "stableId": "ch179_3uzqmv_kgc1",
+      "canonicalUrl": "https://booktoki468.com/novel/3913227"
+    },
+    {
+      "chapterNumber": 180,
+      "stableId": "ch180_2i51k8_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913233"
+    },
+    {
+      "chapterNumber": 181,
+      "stableId": "ch181_d35cy8_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913239"
+    },
+    {
+      "chapterNumber": 182,
+      "stableId": "ch182_hm8kts_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913245"
+    },
+    {
+      "chapterNumber": 183,
+      "stableId": "ch183_aflnxx_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913251"
+    },
+    {
+      "chapterNumber": 184,
+      "stableId": "ch184_e6g5ft_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913269"
+    },
+    {
+      "chapterNumber": 185,
+      "stableId": "ch185_fopz0m_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913275"
+    },
+    {
+      "chapterNumber": 186,
+      "stableId": "ch186_8okaaz_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913281"
+    },
+    {
+      "chapterNumber": 187,
+      "stableId": "ch187_npvklb_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913287"
+    },
+    {
+      "chapterNumber": 188,
+      "stableId": "ch188_uylqtf_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913293"
+    },
+    {
+      "chapterNumber": 189,
+      "stableId": "ch189_nml95l_kgc2",
+      "canonicalUrl": "https://booktoki468.com/novel/3913299"
+    },
+    {
+      "chapterNumber": 190,
+      "stableId": "ch190_whrd1w_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913305"
+    },
+    {
+      "chapterNumber": 191,
+      "stableId": "ch191_qt1lo3_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913311"
+    },
+    {
+      "chapterNumber": 192,
+      "stableId": "ch192_2gtqlj_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913317"
+    },
+    {
+      "chapterNumber": 193,
+      "stableId": "ch193_v22030_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913323"
+    },
+    {
+      "chapterNumber": 194,
+      "stableId": "ch194_xyjtdx_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913329"
+    },
+    {
+      "chapterNumber": 195,
+      "stableId": "ch195_yvw9pn_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913335"
+    },
+    {
+      "chapterNumber": 196,
+      "stableId": "ch196_3xxlm_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913344"
+    },
+    {
+      "chapterNumber": 197,
+      "stableId": "ch197_t5twyw_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913350"
+    },
+    {
+      "chapterNumber": 198,
+      "stableId": "ch198_tjz538_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913356"
+    },
+    {
+      "chapterNumber": 199,
+      "stableId": "ch199_pw9pzg_kgc3",
+      "canonicalUrl": "https://booktoki468.com/novel/3913362"
+    },
+    {
+      "chapterNumber": 200,
+      "stableId": "ch200_ittehe_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913368"
+    },
+    {
+      "chapterNumber": 201,
+      "stableId": "ch201_u1i2fa_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913374"
+    },
+    {
+      "chapterNumber": 202,
+      "stableId": "ch202_mpfiwf_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913380"
+    },
+    {
+      "chapterNumber": 203,
+      "stableId": "ch203_n7dwb3_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913386"
+    },
+    {
+      "chapterNumber": 204,
+      "stableId": "ch204_m413xo_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913392"
+    },
+    {
+      "chapterNumber": 205,
+      "stableId": "ch205_iork4k_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913398"
+    },
+    {
+      "chapterNumber": 206,
+      "stableId": "ch206_85sypv_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913404"
+    },
+    {
+      "chapterNumber": 207,
+      "stableId": "ch207_uqpebm_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913410"
+    },
+    {
+      "chapterNumber": 208,
+      "stableId": "ch208_g3etaq_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913416"
+    },
+    {
+      "chapterNumber": 209,
+      "stableId": "ch209_b0214g_kgcj",
+      "canonicalUrl": "https://booktoki468.com/novel/3913425"
+    },
+    {
+      "chapterNumber": 210,
+      "stableId": "ch210_9e7tea_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913431"
+    },
+    {
+      "chapterNumber": 211,
+      "stableId": "ch211_8sd4s_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913437"
+    },
+    {
+      "chapterNumber": 212,
+      "stableId": "ch212_8h6h9f_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913446"
+    },
+    {
+      "chapterNumber": 213,
+      "stableId": "ch213_othjk2_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913452"
+    },
+    {
+      "chapterNumber": 214,
+      "stableId": "ch214_hy88es_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913464"
+    },
+    {
+      "chapterNumber": 215,
+      "stableId": "ch215_7m6o7e_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913470"
+    },
+    {
+      "chapterNumber": 216,
+      "stableId": "ch216_8cncje_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913476"
+    },
+    {
+      "chapterNumber": 217,
+      "stableId": "ch217_6jovl0_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913482"
+    },
+    {
+      "chapterNumber": 218,
+      "stableId": "ch218_bcq2zv_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913488"
+    },
+    {
+      "chapterNumber": 219,
+      "stableId": "ch219_3wtp6a_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913494"
+    },
+    {
+      "chapterNumber": 220,
+      "stableId": "ch220_9q0l33_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913500"
+    },
+    {
+      "chapterNumber": 221,
+      "stableId": "ch221_e8gpn9_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913503"
+    },
+    {
+      "chapterNumber": 222,
+      "stableId": "ch222_m108ie_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913512"
+    },
+    {
+      "chapterNumber": 223,
+      "stableId": "ch223_4024s3_kgck",
+      "canonicalUrl": "https://booktoki468.com/novel/3913518"
+    },
+    {
+      "chapterNumber": 224,
+      "stableId": "ch224_48tgft_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913524"
+    },
+    {
+      "chapterNumber": 225,
+      "stableId": "ch225_ovat1p_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913530"
+    },
+    {
+      "chapterNumber": 226,
+      "stableId": "ch226_5gb0hq_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913536"
+    },
+    {
+      "chapterNumber": 227,
+      "stableId": "ch227_4xmyup_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913542"
+    },
+    {
+      "chapterNumber": 228,
+      "stableId": "ch228_ljf6jr_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913548"
+    },
+    {
+      "chapterNumber": 229,
+      "stableId": "ch229_5zrizj_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913554"
+    },
+    {
+      "chapterNumber": 230,
+      "stableId": "ch230_opovbh_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913560"
+    },
+    {
+      "chapterNumber": 231,
+      "stableId": "ch231_vksj06_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913566"
+    },
+    {
+      "chapterNumber": 232,
+      "stableId": "ch232_fxxr2a_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913572"
+    },
+    {
+      "chapterNumber": 233,
+      "stableId": "ch233_ds7xl_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913578"
+    },
+    {
+      "chapterNumber": 234,
+      "stableId": "ch234_ot5rqs_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913584"
+    },
+    {
+      "chapterNumber": 235,
+      "stableId": "ch235_6o382k_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913590"
+    },
+    {
+      "chapterNumber": 236,
+      "stableId": "ch236_7p9zdb_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913596"
+    },
+    {
+      "chapterNumber": 237,
+      "stableId": "ch237_tyvps2_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913602"
+    },
+    {
+      "chapterNumber": 238,
+      "stableId": "ch238_ewli8v_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913608"
+    },
+    {
+      "chapterNumber": 239,
+      "stableId": "ch239_mwdr0x_kgcl",
+      "canonicalUrl": "https://booktoki468.com/novel/3913614"
+    },
+    {
+      "chapterNumber": 240,
+      "stableId": "ch240_dcr04o_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913620"
+    },
+    {
+      "chapterNumber": 241,
+      "stableId": "ch241_jahvay_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913626"
+    },
+    {
+      "chapterNumber": 242,
+      "stableId": "ch242_4s9ij7_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913635"
+    },
+    {
+      "chapterNumber": 243,
+      "stableId": "ch243_x5fn9c_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913638"
+    },
+    {
+      "chapterNumber": 244,
+      "stableId": "ch244_c49b4s_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913653"
+    },
+    {
+      "chapterNumber": 245,
+      "stableId": "ch245_lq94hx_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913659"
+    },
+    {
+      "chapterNumber": 246,
+      "stableId": "ch246_3svw2d_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913665"
+    },
+    {
+      "chapterNumber": 247,
+      "stableId": "ch247_67c1dh_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913671"
+    },
+    {
+      "chapterNumber": 248,
+      "stableId": "ch248_1adz7z_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913677"
+    },
+    {
+      "chapterNumber": 249,
+      "stableId": "ch249_wkpha2_kgcm",
+      "canonicalUrl": "https://booktoki468.com/novel/3913683"
+    },
+    {
+      "chapterNumber": 250,
+      "stableId": "ch250_3lnung_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913689"
+    },
+    {
+      "chapterNumber": 251,
+      "stableId": "ch251_e63w75_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913695"
+    },
+    {
+      "chapterNumber": 252,
+      "stableId": "ch252_2xdb4f_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913701"
+    },
+    {
+      "chapterNumber": 253,
+      "stableId": "ch253_5pn2ee_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913710"
+    },
+    {
+      "chapterNumber": 254,
+      "stableId": "ch254_pdfai7_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913719"
+    },
+    {
+      "chapterNumber": 255,
+      "stableId": "ch255_54thwk_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913725"
+    },
+    {
+      "chapterNumber": 256,
+      "stableId": "ch256_6sjnz1_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913731"
+    },
+    {
+      "chapterNumber": 257,
+      "stableId": "ch257_899ppt_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913737"
+    },
+    {
+      "chapterNumber": 258,
+      "stableId": "ch258_fqdys3_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913746"
+    },
+    {
+      "chapterNumber": 259,
+      "stableId": "ch259_xtmyux_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913752"
+    },
+    {
+      "chapterNumber": 260,
+      "stableId": "ch260_mdmfvk_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913758"
+    },
+    {
+      "chapterNumber": 261,
+      "stableId": "ch261_6wg0v9_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913764"
+    },
+    {
+      "chapterNumber": 262,
+      "stableId": "ch262_y6y9nq_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913770"
+    },
+    {
+      "chapterNumber": 263,
+      "stableId": "ch263_pbs407_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913776"
+    },
+    {
+      "chapterNumber": 264,
+      "stableId": "ch264_5ql6m1_kgcn",
+      "canonicalUrl": "https://booktoki468.com/novel/3913782"
+    },
+    {
+      "chapterNumber": 265,
+      "stableId": "ch265_wgs184_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913788"
+    },
+    {
+      "chapterNumber": 266,
+      "stableId": "ch266_81b2dz_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913794"
+    },
+    {
+      "chapterNumber": 267,
+      "stableId": "ch267_1l21xf_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913800"
+    },
+    {
+      "chapterNumber": 268,
+      "stableId": "ch268_6hj6yg_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913806"
+    },
+    {
+      "chapterNumber": 269,
+      "stableId": "ch269_4vnzlc_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913812"
+    },
+    {
+      "chapterNumber": 270,
+      "stableId": "ch270_4yztr1_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913818"
+    },
+    {
+      "chapterNumber": 271,
+      "stableId": "ch271_eqp20c_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913824"
+    },
+    {
+      "chapterNumber": 272,
+      "stableId": "ch272_a4xf6y_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913830"
+    },
+    {
+      "chapterNumber": 273,
+      "stableId": "ch273_vl4lez_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913836"
+    },
+    {
+      "chapterNumber": 274,
+      "stableId": "ch274_v02wlr_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913848"
+    },
+    {
+      "chapterNumber": 275,
+      "stableId": "ch275_v0se2n_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913854"
+    },
+    {
+      "chapterNumber": 276,
+      "stableId": "ch276_uwa9d7_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913860"
+    },
+    {
+      "chapterNumber": 277,
+      "stableId": "ch277_uf39sh_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913869"
+    },
+    {
+      "chapterNumber": 278,
+      "stableId": "ch278_elegzn_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913875"
+    },
+    {
+      "chapterNumber": 279,
+      "stableId": "ch279_pqpgpq_kgco",
+      "canonicalUrl": "https://booktoki468.com/novel/3913881"
+    },
+    {
+      "chapterNumber": 280,
+      "stableId": "ch280_b2eaa_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913887"
+    },
+    {
+      "chapterNumber": 281,
+      "stableId": "ch281_fdf7te_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913893"
+    },
+    {
+      "chapterNumber": 282,
+      "stableId": "ch282_ii6m14_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913899"
+    },
+    {
+      "chapterNumber": 283,
+      "stableId": "ch283_1b3h1i_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913905"
+    },
+    {
+      "chapterNumber": 284,
+      "stableId": "ch284_92xr8r_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913911"
+    },
+    {
+      "chapterNumber": 285,
+      "stableId": "ch285_eeivg5_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913917"
+    },
+    {
+      "chapterNumber": 286,
+      "stableId": "ch286_owkhwo_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913923"
+    },
+    {
+      "chapterNumber": 287,
+      "stableId": "ch287_wwxgn9_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913929"
+    },
+    {
+      "chapterNumber": 288,
+      "stableId": "ch288_pe6wxb_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913935"
+    },
+    {
+      "chapterNumber": 289,
+      "stableId": "ch289_zfv7pp_kgcp",
+      "canonicalUrl": "https://booktoki468.com/novel/3913941"
+    },
+    {
+      "chapterNumber": 290,
+      "stableId": "ch290_aychbs_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913950"
+    },
+    {
+      "chapterNumber": 291,
+      "stableId": "ch291_v84jc1_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913956"
+    },
+    {
+      "chapterNumber": 292,
+      "stableId": "ch292_4zonkl_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913965"
+    },
+    {
+      "chapterNumber": 293,
+      "stableId": "ch293_k95xw2_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913971"
+    },
+    {
+      "chapterNumber": 294,
+      "stableId": "ch294_u5tjw7_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913977"
+    },
+    {
+      "chapterNumber": 295,
+      "stableId": "ch295_6jwlj2_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913983"
+    },
+    {
+      "chapterNumber": 296,
+      "stableId": "ch296_9xsa94_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913989"
+    },
+    {
+      "chapterNumber": 297,
+      "stableId": "ch297_cc707u_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3913995"
+    },
+    {
+      "chapterNumber": 298,
+      "stableId": "ch298_gugsc2_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3914001"
+    },
+    {
+      "chapterNumber": 299,
+      "stableId": "ch299_5bizt_kgcq",
+      "canonicalUrl": "https://booktoki468.com/novel/3914007"
+    },
+    {
+      "chapterNumber": 300,
+      "stableId": "ch300_4bkj9_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914013"
+    },
+    {
+      "chapterNumber": 301,
+      "stableId": "ch301_7gvogg_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914019"
+    },
+    {
+      "chapterNumber": 302,
+      "stableId": "ch302_glmv3l_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914028"
+    },
+    {
+      "chapterNumber": 303,
+      "stableId": "ch303_11pr19_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914034"
+    },
+    {
+      "chapterNumber": 304,
+      "stableId": "ch304_dwngng_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914046"
+    },
+    {
+      "chapterNumber": 305,
+      "stableId": "ch305_zhzvkb_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914052"
+    },
+    {
+      "chapterNumber": 306,
+      "stableId": "ch306_pdbhkm_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914058"
+    },
+    {
+      "chapterNumber": 307,
+      "stableId": "ch307_p12vaf_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914064"
+    },
+    {
+      "chapterNumber": 308,
+      "stableId": "ch308_wz4c6u_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914070"
+    },
+    {
+      "chapterNumber": 309,
+      "stableId": "ch309_t9pdbs_kgd6",
+      "canonicalUrl": "https://booktoki468.com/novel/3914076"
+    },
+    {
+      "chapterNumber": 310,
+      "stableId": "ch310_232pj_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914082"
+    },
+    {
+      "chapterNumber": 311,
+      "stableId": "ch311_xhjuk_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914088"
+    },
+    {
+      "chapterNumber": 312,
+      "stableId": "ch312_gh97hg_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914094"
+    },
+    {
+      "chapterNumber": 313,
+      "stableId": "ch313_i2axt2_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914100"
+    },
+    {
+      "chapterNumber": 314,
+      "stableId": "ch314_z8tujh_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914109"
+    },
+    {
+      "chapterNumber": 315,
+      "stableId": "ch315_42409r_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914115"
+    },
+    {
+      "chapterNumber": 316,
+      "stableId": "ch316_5lpui0_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914121"
+    },
+    {
+      "chapterNumber": 317,
+      "stableId": "ch317_ls7dk3_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914127"
+    },
+    {
+      "chapterNumber": 318,
+      "stableId": "ch318_ge7s7i_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914133"
+    },
+    {
+      "chapterNumber": 319,
+      "stableId": "ch319_ubk40j_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914139"
+    },
+    {
+      "chapterNumber": 320,
+      "stableId": "ch320_4elex8_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914148"
+    },
+    {
+      "chapterNumber": 321,
+      "stableId": "ch321_jebonj_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914154"
+    },
+    {
+      "chapterNumber": 322,
+      "stableId": "ch322_s0i4dz_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914160"
+    },
+    {
+      "chapterNumber": 323,
+      "stableId": "ch323_d5g6ln_kgd7",
+      "canonicalUrl": "https://booktoki468.com/novel/3914169"
+    },
+    {
+      "chapterNumber": 324,
+      "stableId": "ch324_q89ekh_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914175"
+    },
+    {
+      "chapterNumber": 325,
+      "stableId": "ch325_w8byc9_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914181"
+    },
+    {
+      "chapterNumber": 326,
+      "stableId": "ch326_94bx5m_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914187"
+    },
+    {
+      "chapterNumber": 327,
+      "stableId": "ch327_qv4k6n_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914193"
+    },
+    {
+      "chapterNumber": 328,
+      "stableId": "ch328_juhstr_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914199"
+    },
+    {
+      "chapterNumber": 329,
+      "stableId": "ch329_6itw36_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914205"
+    },
+    {
+      "chapterNumber": 330,
+      "stableId": "ch330_hwnlfg_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914214"
+    },
+    {
+      "chapterNumber": 331,
+      "stableId": "ch331_fq74o0_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914220"
+    },
+    {
+      "chapterNumber": 332,
+      "stableId": "ch332_r8cibk_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914226"
+    },
+    {
+      "chapterNumber": 333,
+      "stableId": "ch333_dybxtl_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914232"
+    },
+    {
+      "chapterNumber": 334,
+      "stableId": "ch334_xhdp9j_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914247"
+    },
+    {
+      "chapterNumber": 335,
+      "stableId": "ch335_6h4fhq_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914253"
+    },
+    {
+      "chapterNumber": 336,
+      "stableId": "ch336_hv0y8q_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914259"
+    },
+    {
+      "chapterNumber": 337,
+      "stableId": "ch337_qih4u9_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914265"
+    },
+    {
+      "chapterNumber": 338,
+      "stableId": "ch338_7l1ky9_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914271"
+    },
+    {
+      "chapterNumber": 339,
+      "stableId": "ch339_ob1km7_kgd8",
+      "canonicalUrl": "https://booktoki468.com/novel/3914277"
+    },
+    {
+      "chapterNumber": 340,
+      "stableId": "ch340_eldr80_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914286"
+    },
+    {
+      "chapterNumber": 341,
+      "stableId": "ch341_ty24b2_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914292"
+    },
+    {
+      "chapterNumber": 342,
+      "stableId": "ch342_o59cjj_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914298"
+    },
+    {
+      "chapterNumber": 343,
+      "stableId": "ch343_zdzgp9_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914304"
+    },
+    {
+      "chapterNumber": 344,
+      "stableId": "ch344_c9ipmj_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914310"
+    },
+    {
+      "chapterNumber": 345,
+      "stableId": "ch345_88x5zo_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914316"
+    },
+    {
+      "chapterNumber": 346,
+      "stableId": "ch346_qur297_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914322"
+    },
+    {
+      "chapterNumber": 347,
+      "stableId": "ch347_a348q2_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914328"
+    },
+    {
+      "chapterNumber": 348,
+      "stableId": "ch348_dyl97r_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914334"
+    },
+    {
+      "chapterNumber": 349,
+      "stableId": "ch349_lkg0w2_kgd9",
+      "canonicalUrl": "https://booktoki468.com/novel/3914340"
+    },
+    {
+      "chapterNumber": 350,
+      "stableId": "ch350_952vmd_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914346"
+    },
+    {
+      "chapterNumber": 351,
+      "stableId": "ch351_wj471e_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914352"
+    },
+    {
+      "chapterNumber": 352,
+      "stableId": "ch352_d3psjs_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914358"
+    },
+    {
+      "chapterNumber": 353,
+      "stableId": "ch353_3tklna_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914367"
+    },
+    {
+      "chapterNumber": 354,
+      "stableId": "ch354_ndhwza_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914373"
+    },
+    {
+      "chapterNumber": 355,
+      "stableId": "ch355_ym5inr_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914379"
+    },
+    {
+      "chapterNumber": 356,
+      "stableId": "ch356_wf71xl_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914385"
+    },
+    {
+      "chapterNumber": 357,
+      "stableId": "ch357_lgzofh_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914391"
+    },
+    {
+      "chapterNumber": 358,
+      "stableId": "ch358_bhuhpn_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914397"
+    },
+    {
+      "chapterNumber": 359,
+      "stableId": "ch359_wkzu47_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914403"
+    },
+    {
+      "chapterNumber": 360,
+      "stableId": "ch360_y1zjpz_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914409"
+    },
+    {
+      "chapterNumber": 361,
+      "stableId": "ch361_2qtxiz_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914415"
+    },
+    {
+      "chapterNumber": 362,
+      "stableId": "ch362_ul4q7x_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914424"
+    },
+    {
+      "chapterNumber": 363,
+      "stableId": "ch363_oyw8hq_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914430"
+    },
+    {
+      "chapterNumber": 364,
+      "stableId": "ch364_9dsk6j_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914442"
+    },
+    {
+      "chapterNumber": 365,
+      "stableId": "ch365_hcda19_kgda",
+      "canonicalUrl": "https://booktoki468.com/novel/3914448"
+    },
+    {
+      "chapterNumber": 366,
+      "stableId": "ch366_sed0ux_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914454"
+    },
+    {
+      "chapterNumber": 367,
+      "stableId": "ch367_s7il5c_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914460"
+    },
+    {
+      "chapterNumber": 368,
+      "stableId": "ch368_z5x9sm_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914466"
+    },
+    {
+      "chapterNumber": 369,
+      "stableId": "ch369_eyryje_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914472"
+    },
+    {
+      "chapterNumber": 370,
+      "stableId": "ch370_b0ot8i_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914478"
+    },
+    {
+      "chapterNumber": 371,
+      "stableId": "ch371_qlh2gt_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914484"
+    },
+    {
+      "chapterNumber": 372,
+      "stableId": "ch372_d78yiv_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914490"
+    },
+    {
+      "chapterNumber": 373,
+      "stableId": "ch373_av55wq_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914496"
+    },
+    {
+      "chapterNumber": 374,
+      "stableId": "ch374_q2dfak_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914502"
+    },
+    {
+      "chapterNumber": 375,
+      "stableId": "ch375_pgut42_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914508"
+    },
+    {
+      "chapterNumber": 376,
+      "stableId": "ch376_icfqvq_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914514"
+    },
+    {
+      "chapterNumber": 377,
+      "stableId": "ch377_j7qi0w_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914523"
+    },
+    {
+      "chapterNumber": 378,
+      "stableId": "ch378_dlxsk8_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914529"
+    },
+    {
+      "chapterNumber": 379,
+      "stableId": "ch379_o4v0cw_kgdb",
+      "canonicalUrl": "https://booktoki468.com/novel/3914535"
+    },
+    {
+      "chapterNumber": 380,
+      "stableId": "ch380_xov68z_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914541"
+    },
+    {
+      "chapterNumber": 381,
+      "stableId": "ch381_mgo9as_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914547"
+    },
+    {
+      "chapterNumber": 382,
+      "stableId": "ch382_n0cqf3_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914553"
+    },
+    {
+      "chapterNumber": 383,
+      "stableId": "ch383_8xgzgt_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914559"
+    },
+    {
+      "chapterNumber": 384,
+      "stableId": "ch384_ozii4g_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914565"
+    },
+    {
+      "chapterNumber": 385,
+      "stableId": "ch385_vlxjia_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914571"
+    },
+    {
+      "chapterNumber": 386,
+      "stableId": "ch386_j2k4qm_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914577"
+    },
+    {
+      "chapterNumber": 387,
+      "stableId": "ch387_wikbwe_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914583"
+    },
+    {
+      "chapterNumber": 388,
+      "stableId": "ch388_qi3cc7_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914589"
+    },
+    {
+      "chapterNumber": 389,
+      "stableId": "ch389_o5mqex_kgdc",
+      "canonicalUrl": "https://booktoki468.com/novel/3914595"
+    },
+    {
+      "chapterNumber": 390,
+      "stableId": "ch390_i1fqbb_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914601"
+    },
+    {
+      "chapterNumber": 391,
+      "stableId": "ch391_tzs0i5_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914607"
+    },
+    {
+      "chapterNumber": 392,
+      "stableId": "ch392_ovjt6y_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914613"
+    },
+    {
+      "chapterNumber": 393,
+      "stableId": "ch393_f3ivk5_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914619"
+    },
+    {
+      "chapterNumber": 394,
+      "stableId": "ch394_gktmwp_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914634"
+    },
+    {
+      "chapterNumber": 395,
+      "stableId": "ch395_86vcx7_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914640"
+    },
+    {
+      "chapterNumber": 396,
+      "stableId": "ch396_yvak08_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914646"
+    },
+    {
+      "chapterNumber": 397,
+      "stableId": "ch397_odqzts_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914652"
+    },
+    {
+      "chapterNumber": 398,
+      "stableId": "ch398_wo84i0_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914658"
+    },
+    {
+      "chapterNumber": 399,
+      "stableId": "ch399_x842cx_kgdd",
+      "canonicalUrl": "https://booktoki468.com/novel/3914664"
+    },
+    {
+      "chapterNumber": 400,
+      "stableId": "ch400_h9rr3u_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914670"
+    },
+    {
+      "chapterNumber": 401,
+      "stableId": "ch401_660dhd_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914676"
+    },
+    {
+      "chapterNumber": 402,
+      "stableId": "ch402_lb8yzm_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914682"
+    },
+    {
+      "chapterNumber": 403,
+      "stableId": "ch403_1x1gb6_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914688"
+    },
+    {
+      "chapterNumber": 404,
+      "stableId": "ch404_rnin3y_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914694"
+    },
+    {
+      "chapterNumber": 405,
+      "stableId": "ch405_v7rtt9_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914700"
+    },
+    {
+      "chapterNumber": 406,
+      "stableId": "ch406_pfxpix_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914706"
+    },
+    {
+      "chapterNumber": 407,
+      "stableId": "ch407_7y2gni_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914712"
+    },
+    {
+      "chapterNumber": 408,
+      "stableId": "ch408_cdyx1a_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914718"
+    },
+    {
+      "chapterNumber": 409,
+      "stableId": "ch409_3iigq9_kgdt",
+      "canonicalUrl": "https://booktoki468.com/novel/3914724"
+    },
+    {
+      "chapterNumber": 410,
+      "stableId": "ch410_e2nkod_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914730"
+    },
+    {
+      "chapterNumber": 411,
+      "stableId": "ch411_nyq58h_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914736"
+    },
+    {
+      "chapterNumber": 412,
+      "stableId": "ch412_pdisju_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914739"
+    },
+    {
+      "chapterNumber": 413,
+      "stableId": "ch413_4pfpdh_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914745"
+    },
+    {
+      "chapterNumber": 414,
+      "stableId": "ch414_3mu6q6_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914751"
+    },
+    {
+      "chapterNumber": 415,
+      "stableId": "ch415_s80t3r_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914763"
+    },
+    {
+      "chapterNumber": 416,
+      "stableId": "ch416_fcge2d_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914769"
+    },
+    {
+      "chapterNumber": 417,
+      "stableId": "ch417_ef46k_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914775"
+    },
+    {
+      "chapterNumber": 418,
+      "stableId": "ch418_7lhwun_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914781"
+    },
+    {
+      "chapterNumber": 419,
+      "stableId": "ch419_nd2s2i_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914787"
+    },
+    {
+      "chapterNumber": 420,
+      "stableId": "ch420_h70lsf_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914796"
+    },
+    {
+      "chapterNumber": 421,
+      "stableId": "ch421_vut73i_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914802"
+    },
+    {
+      "chapterNumber": 422,
+      "stableId": "ch422_e9ga4t_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914811"
+    },
+    {
+      "chapterNumber": 423,
+      "stableId": "ch423_u71t48_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914817"
+    },
+    {
+      "chapterNumber": 424,
+      "stableId": "ch424_3ym0yd_kgdu",
+      "canonicalUrl": "https://booktoki468.com/novel/3914877"
+    },
+    {
+      "chapterNumber": 425,
+      "stableId": "ch425_2ux691_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914883"
+    },
+    {
+      "chapterNumber": 426,
+      "stableId": "ch426_7n1fsw_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914889"
+    },
+    {
+      "chapterNumber": 427,
+      "stableId": "ch427_cbepk3_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914895"
+    },
+    {
+      "chapterNumber": 428,
+      "stableId": "ch428_91oz85_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914901"
+    },
+    {
+      "chapterNumber": 429,
+      "stableId": "ch429_bztyf6_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914907"
+    },
+    {
+      "chapterNumber": 430,
+      "stableId": "ch430_7euwwf_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914913"
+    },
+    {
+      "chapterNumber": 431,
+      "stableId": "ch431_bqexzv_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914919"
+    },
+    {
+      "chapterNumber": 432,
+      "stableId": "ch432_3okyzd_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914925"
+    },
+    {
+      "chapterNumber": 433,
+      "stableId": "ch433_m97fkv_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914931"
+    },
+    {
+      "chapterNumber": 434,
+      "stableId": "ch434_fn9nrx_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914937"
+    },
+    {
+      "chapterNumber": 435,
+      "stableId": "ch435_bsejrt_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914946"
+    },
+    {
+      "chapterNumber": 436,
+      "stableId": "ch436_gb8byq_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914955"
+    },
+    {
+      "chapterNumber": 437,
+      "stableId": "ch437_otrj0n_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914961"
+    },
+    {
+      "chapterNumber": 438,
+      "stableId": "ch438_j02tdc_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914967"
+    },
+    {
+      "chapterNumber": 439,
+      "stableId": "ch439_3hdmin_kgdv",
+      "canonicalUrl": "https://booktoki468.com/novel/3914973"
+    },
+    {
+      "chapterNumber": 440,
+      "stableId": "ch440_ttljad_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3914979"
+    },
+    {
+      "chapterNumber": 441,
+      "stableId": "ch441_ohygc_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3914985"
+    },
+    {
+      "chapterNumber": 442,
+      "stableId": "ch442_xzm2ks_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3914991"
+    },
+    {
+      "chapterNumber": 443,
+      "stableId": "ch443_juu7a4_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3914997"
+    },
+    {
+      "chapterNumber": 444,
+      "stableId": "ch444_1pz7cc_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3915003"
+    },
+    {
+      "chapterNumber": 445,
+      "stableId": "ch445_p5bxw3_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3915009"
+    },
+    {
+      "chapterNumber": 446,
+      "stableId": "ch446_c46bhi_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3915015"
+    },
+    {
+      "chapterNumber": 447,
+      "stableId": "ch447_1bjlsx_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3915024"
+    },
+    {
+      "chapterNumber": 448,
+      "stableId": "ch448_cljoy9_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3915030"
+    },
+    {
+      "chapterNumber": 449,
+      "stableId": "ch449_wlwqfj_kgdw",
+      "canonicalUrl": "https://booktoki468.com/novel/3915036"
+    },
+    {
+      "chapterNumber": 450,
+      "stableId": "ch450_g8be7z_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915042"
+    },
+    {
+      "chapterNumber": 451,
+      "stableId": "ch451_8xydg4_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915048"
+    },
+    {
+      "chapterNumber": 452,
+      "stableId": "ch452_l37lub_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915054"
+    },
+    {
+      "chapterNumber": 453,
+      "stableId": "ch453_dmbkzs_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915060"
+    },
+    {
+      "chapterNumber": 454,
+      "stableId": "ch454_dcaud0_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915069"
+    },
+    {
+      "chapterNumber": 455,
+      "stableId": "ch455_y1adr2_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915072"
+    },
+    {
+      "chapterNumber": 456,
+      "stableId": "ch456_nga1wk_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915078"
+    },
+    {
+      "chapterNumber": 457,
+      "stableId": "ch457_ovfv2w_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915084"
+    },
+    {
+      "chapterNumber": 458,
+      "stableId": "ch458_ve5j24_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915090"
+    },
+    {
+      "chapterNumber": 459,
+      "stableId": "ch459_5ol6fy_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915096"
+    },
+    {
+      "chapterNumber": 460,
+      "stableId": "ch460_h0fd4b_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915102"
+    },
+    {
+      "chapterNumber": 461,
+      "stableId": "ch461_avkgmt_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915108"
+    },
+    {
+      "chapterNumber": 462,
+      "stableId": "ch462_a285e2_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915114"
+    },
+    {
+      "chapterNumber": 463,
+      "stableId": "ch463_nb4g7t_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915120"
+    },
+    {
+      "chapterNumber": 464,
+      "stableId": "ch464_dod8uw_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915129"
+    },
+    {
+      "chapterNumber": 465,
+      "stableId": "ch465_sxcp0u_kgdx",
+      "canonicalUrl": "https://booktoki468.com/novel/3915135"
+    },
+    {
+      "chapterNumber": 466,
+      "stableId": "ch466_tvehhv_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915144"
+    },
+    {
+      "chapterNumber": 467,
+      "stableId": "ch467_auu90o_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915150"
+    },
+    {
+      "chapterNumber": 468,
+      "stableId": "ch468_2lj8tp_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915153"
+    },
+    {
+      "chapterNumber": 469,
+      "stableId": "ch469_5kkd5g_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915159"
+    },
+    {
+      "chapterNumber": 470,
+      "stableId": "ch470_7woeor_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915165"
+    },
+    {
+      "chapterNumber": 471,
+      "stableId": "ch471_l8lxtv_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915171"
+    },
+    {
+      "chapterNumber": 472,
+      "stableId": "ch472_70sxp9_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915177"
+    },
+    {
+      "chapterNumber": 473,
+      "stableId": "ch473_y65gub_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915183"
+    },
+    {
+      "chapterNumber": 474,
+      "stableId": "ch474_fafvce_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915189"
+    },
+    {
+      "chapterNumber": 475,
+      "stableId": "ch475_mfe3lf_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3915192"
+    },
+    {
+      "chapterNumber": 476,
+      "stableId": "ch476_lmvxgx_kgdy",
+      "canonicalUrl": "https://booktoki468.com/novel/3916767"
+    }
+  ]
+}
