@@ -15,6 +15,14 @@ if [ ! -d .git ]; then
     exit 1
 fi
 
+echo "🔐 Verifying manifest-protected publications..."
+if ! node scripts/verify-publications.mjs; then
+    echo ""
+    echo "❌ Publication blocked. Fix the exact metadata/session/manifest mismatch shown above."
+    read -p "Press enter to close this window..."
+    exit 1
+fi
+
 echo "📦 Checking for updates to your novels..."
 git status -s
 

@@ -39,7 +39,7 @@
       "lnAdaptation": "https://shalvationtranslations.wordpress.com/dungeon-defense-toc/",
       "manga": "https://kunmanga.com/manga/dungeon-defense/chapter-0/"
     },
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-08-31"
   },
   "versions": [
     {
@@ -56,17 +56,17 @@
       "description": "Ongoing translation of the web novel version featuring extensive footnotes and images from the original publication.",
       "chapterRange": {
         "from": 1,
-        "to": 509
+        "to": 476
       },
       "completionStatus": "In Progress",
-      "lastUpdated": "2025-10-21",
+      "lastUpdated": "2026-08-31",
       "stats": {
         "downloads": 0,
-        "fileSize": "0MB",
+        "fileSize": "259.05MB",
         "content": {
           "totalImages": 463,
           "totalFootnotes": 462,
-          "totalRawChapters": 509,
+          "totalRawChapters": 476,
           "totalTranslatedChapters": 283,
           "avgImagesPerChapter": 0.9096267190569745,
           "avgFootnotesPerChapter": 0.9076620825147348
@@ -76,7 +76,8 @@
           "feedbackCount": 0,
           "qualityRating": 0
         }
-      }
+      },
+      "chapterManifestUrl": "https://raw.githubusercontent.com/anantham/lexiconforge-novels/main/novels/dungeon-defense-wn/chapter-manifest.json"
     }
   ]
 }

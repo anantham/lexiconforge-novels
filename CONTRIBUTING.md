@@ -21,9 +21,10 @@ Thank you for contributing translations to the community!
    - Links (Novel Updates, source, etc.)
 4. Go to **Settings → Export**
 5. Click **"Publish to Library"**
-6. Download both files:
+6. Download all publication files:
    - `metadata.json`
    - `session.json`
+   - `chapter-manifest.json`
 
 ### Option B: Manual Creation
 
@@ -58,6 +59,7 @@ Create `metadata.json` following this template:
         "link": "https://your-site.com"
       },
       "sessionJsonUrl": "URL to this version's session.json",
+      "chapterManifestUrl": "URL to this version's chapter-manifest.json",
       "targetLanguage": "English",
       "style": "faithful",
       "features": ["complete", "high-quality"],
@@ -102,6 +104,9 @@ Create `metadata.json` following this template:
 
    # Add session (optional - can host elsewhere)
    cp ~/Downloads/session.json novels/your-novel-id/
+
+   # Add the exact identity/checksum manifest
+   cp ~/Downloads/chapter-manifest.json novels/your-novel-id/
    ```
 
 4. **Update registry.json**:
@@ -112,12 +117,20 @@ Create `metadata.json` following this template:
    }
    ```
 
-5. **Commit and push**:
+5. **Verify, commit, and push**:
    ```bash
+   git lfs pull
+   node --test scripts/publication-integrity.test.mjs
+   node scripts/verify-publications.mjs
    git add .
    git commit -m "Add [Novel Title]"
    git push origin main
    ```
+
+   A version that declares `chapterManifestUrl` is blocked if its metadata counts/range, ordered
+   chapter tuples, session byte length, or SHA-256 differ from the manifest. `chapterCount` describes
+   the expected size of the work; `stats.content.totalRawChapters` and `chapterRange` describe only
+   what this version currently publishes.
 
 6. **Create Pull Request** on GitHub
 
