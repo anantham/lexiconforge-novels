@@ -54,6 +54,20 @@ const fixture = () => {
 };
 
 describe('publication integrity', () => {
+  test('rejects GitHub raw URLs for LFS-protected session and chapter files', () => {
+    const values = fixture();
+    const rawBase = 'https://raw.githubusercontent.com/example/novels/main/novels/fixture';
+    values.metadata.versions[0].sessionJsonUrl = `${rawBase}/session.json`;
+    values.manifest.session.url = `${rawBase}/session.json`;
+    assert.throws(() => validateLibraryPublication(values), /Git LFS.*media.githubusercontent.com/);
+
+    const other = fixture();
+    other.manifest.chapters[0].artifact = {
+      url: `${rawBase}/chapters/chapter-000001.json`, sha256: 'a'.repeat(64), byteLength: 1,
+    };
+    assert.throws(() => validateLibraryPublication(other), /Git LFS.*media.githubusercontent.com/);
+  });
+
   test('round-trips an exact manifest against metadata and session bytes', () => {
     const values = fixture();
     assert.equal(validateLibraryPublication(values), values.manifest);

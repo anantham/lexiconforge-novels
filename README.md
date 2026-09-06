@@ -90,3 +90,9 @@ reuse their address. The generator writes all chapter files before replacing the
 manifest. This is a publication repair, not additional chapters or a complete
 English novel/index. Node 24.19 tests and verification cover all 476 old/new file
 pairs; source review and fresh PR CI remain publication prerequisites.
+
+The publication gate rejects raw.githubusercontent.com URLs for this repository's
+Git LFS paths (`session.json` and `chapters/*.json`); those references must point
+to media.githubusercontent.com. Metadata and manifest JSON remain ordinary raw
+GitHub files. Strict metadata/manifest URL equality is retained; producers must
+emit the correct byte transport instead of relying on client-side alias repair.
