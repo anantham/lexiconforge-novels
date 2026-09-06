@@ -120,6 +120,17 @@ describe('stable-ID-proven chapter-number repair', () => {
 });
 
 describe('immutable chapter artifacts', () => {
+  test('keeps revision addresses distinct while reusing unchanged chapter bytes', () => {
+    const { metadata, session } = fixture();
+    const input = { novelId: metadata.id, versionId: 'v1', chapter: session.chapters[0],
+      publicBaseUrl: 'https://media.example/fixture/chapters' };
+    const original = createChapterArtifact(input);
+    assert.deepEqual(createChapterArtifact(input), original);
+    const revised = createChapterArtifact({ ...input, chapter: { ...input.chapter, content: 'Revised content' } });
+    const nextVersion = createChapterArtifact({ ...input, versionId: 'v2' });
+    assert.equal(new Set([original, revised, nextVersion].map(artifact => artifact.reference.url)).size, 3);
+  });
+
   test('round-trips exact bytes and the manifest identity tuple', () => {
     const values = fixture();
     const identity = values.manifest.chapters[1];
@@ -136,7 +147,7 @@ describe('immutable chapter artifacts', () => {
       reference: artifact.reference,
       context: { novelId: values.metadata.id, versionId: 'v1', identity },
     }), artifact.document);
-    assert.match(artifact.fileName, /chapter-000002\.json/);
+    assert.equal(artifact.fileName, `chapter-000002-${artifact.reference.sha256}.json`);
   });
 
   test('rejects byte drift and tuple drift independently', () => {

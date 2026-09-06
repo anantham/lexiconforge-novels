@@ -23,7 +23,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 │   │   ├── metadata.json
 │   │   ├── chapter-manifest.json # Exact identities + session/artifact checksums
 │   │   ├── chapters/             # Optional exact, independently fetchable chapter artifacts
-│   │   │   └── chapter-000001.json
+│   │   │   └── chapter-000001-<sha256>.json
 │   │   └── session.json   (optional, can be hosted elsewhere)
 │   └── novel-id-2/
 │       ├── metadata.json
@@ -79,3 +79,14 @@ must validate before the publisher will commit or push.
 ## License
 
 Individual novels retain their original licenses. This registry structure is MIT licensed.
+
+### Revision-address correction (2026-09-06)
+
+Chapter filenames include the SHA-256 of the complete serialized envelope. The
+476 generated envelopes retain exactly the prior bytes and session reference;
+old chapter-number-only files remain available for earlier manifest readers.
+Changing a chapter or version now creates another address, while unchanged bytes
+reuse their address. The generator writes all chapter files before replacing the
+manifest. This is a publication repair, not additional chapters or a complete
+English novel/index. Node 24.19 tests and verification cover all 476 old/new file
+pairs; source review and fresh PR CI remain publication prerequisites.

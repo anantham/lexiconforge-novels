@@ -4,9 +4,6 @@ const fail = (message) => {
   throw new PublicationIntegrityError(`chapter artifact: ${message}`);
 };
 
-export const chapterArtifactFileName = (chapterNumber) =>
-  `chapter-${String(chapterNumber).padStart(6, '0')}.json`;
-
 export const createChapterArtifact = ({ novelId, versionId, chapter, publicBaseUrl }) => {
   const document = {
     format: 'lexiconforge-chapter-artifact',
@@ -16,14 +13,15 @@ export const createChapterArtifact = ({ novelId, versionId, chapter, publicBaseU
     chapter,
   };
   const json = JSON.stringify(document, null, 2);
-  const fileName = chapterArtifactFileName(chapter.chapterNumber);
+  const digest = sha256(json);
+  const fileName = `chapter-${String(chapter.chapterNumber).padStart(6, '0')}-${digest}.json`;
   return {
     fileName,
     document,
     json,
     reference: {
       url: `${publicBaseUrl.replace(/\/$/, '')}/${fileName}`,
-      sha256: sha256(json),
+      sha256: digest,
       byteLength: Buffer.byteLength(json, 'utf8'),
     },
   };
