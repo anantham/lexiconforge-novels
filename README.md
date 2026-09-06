@@ -21,7 +21,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 ├── novels/
 │   ├── novel-id-1/
 │   │   ├── metadata.json
-│   │   ├── chapter-manifest.json # Exact published identities + session checksum
+│   │   ├── chapter-manifest.json # Exact identities + session/artifact checksums
+│   │   ├── chapters/             # Optional exact, independently fetchable chapter artifacts
+│   │   │   └── chapter-000001-<sha256>.json
 │   │   └── session.json   (optional, can be hosted elsewhere)
 │   └── novel-id-2/
 │       ├── metadata.json
@@ -51,8 +53,17 @@ Each entry in `registry.json`:
 
 Migrated versions declare `chapterManifestUrl` in `metadata.json`. Their manifest records the exact
 ordered chapter identities currently published and the SHA-256/byte length of `session.json`.
+An identity may also reference an independently fetchable chapter artifact with its own URL,
+SHA-256, and byte length. Once a version publishes any artifacts, it must publish one for every
+manifest identity; partial artifact coverage is rejected.
 Expected work size remains separate, so an in-progress 476-chapter publication may still describe a
 509-chapter work without advertising the unpublished chapters as navigable.
+
+Chapter artifacts intentionally duplicate chapter data from `session.json`. This lets clients fetch
+and verify one chapter without downloading the complete session, while keeping the session as the
+portable full-publication representation. Both sessions and `chapters/*.json` are stored with Git
+LFS. CI hydrates the files referenced by protected manifests and rejects missing bytes, checksum
+drift, malformed artifacts, partial coverage, or a chapter number/stable ID/canonical URL mismatch.
 
 Run the same fail-closed check used by `publish.command` and CI before publication:
 
@@ -68,3 +79,20 @@ must validate before the publisher will commit or push.
 ## License
 
 Individual novels retain their original licenses. This registry structure is MIT licensed.
+
+### Revision-address correction (2026-09-06)
+
+Chapter filenames include the SHA-256 of the complete serialized envelope. The
+476 generated envelopes retain exactly the prior bytes and session reference;
+old chapter-number-only files remain available for earlier manifest readers.
+Changing a chapter or version now creates another address, while unchanged bytes
+reuse their address. The generator writes all chapter files before replacing the
+manifest. This is a publication repair, not additional chapters or a complete
+English novel/index. Node 24.19 tests and verification cover all 476 old/new file
+pairs; source review and fresh PR CI remain publication prerequisites.
+
+The publication gate rejects raw.githubusercontent.com URLs for this repository's
+Git LFS paths (`session.json` and `chapters/*.json`); those references must point
+to media.githubusercontent.com. Metadata and manifest JSON remain ordinary raw
+GitHub files. Strict metadata/manifest URL equality is retained; producers must
+emit the correct byte transport instead of relying on client-side alias repair.

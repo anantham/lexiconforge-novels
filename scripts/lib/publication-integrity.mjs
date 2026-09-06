@@ -27,6 +27,14 @@ const requireString = (value, field) => {
 
 export const sha256 = (value) => createHash('sha256').update(value, 'utf8').digest('hex');
 
+const requireByteArtifactUrl = (value, field) => {
+  const url = new URL(value);
+  if (url.hostname === 'raw.githubusercontent.com'
+    && /\/(?:session\.json|chapters\/[^/]+\.json)$/.test(url.pathname)) {
+    fail(`${field}: Git LFS bytes must use media.githubusercontent.com, not a raw pointer URL.`);
+  }
+};
+
 export const simpleHash = (value) => {
   let hash = 0;
   for (let index = 0; index < value.length; index += 1) {
@@ -134,10 +142,27 @@ const validateManifestShape = (manifest) => {
     return fail('manifest publishedChapterCount does not match its chapter identity count.');
   }
   requireString(manifest?.session?.url, 'manifest.session.url');
+  requireByteArtifactUrl(manifest.session.url, 'manifest.session.url');
   if (!/^[a-f0-9]{64}$/.test(manifest?.session?.sha256 ?? '')) {
     return fail('manifest.session.sha256 must be a lowercase SHA-256 digest.');
   }
   requirePositiveInteger(manifest?.session?.byteLength, 'manifest.session.byteLength');
+  manifest.chapters.forEach((identity, index) => {
+    requirePositiveInteger(identity?.chapterNumber, `manifest.chapters[${index}].chapterNumber`);
+    requireString(identity?.stableId, `manifest.chapters[${index}].stableId`);
+    requireString(identity?.canonicalUrl, `manifest.chapters[${index}].canonicalUrl`);
+    if (identity?.artifact) {
+      requireString(identity.artifact.url, `manifest.chapters[${index}].artifact.url`);
+      requireByteArtifactUrl(identity.artifact.url, `manifest.chapters[${index}].artifact.url`);
+      if (!/^[a-f0-9]{64}$/.test(identity.artifact.sha256 ?? '')) {
+        fail(`manifest.chapters[${index}].artifact.sha256 must be a lowercase SHA-256 digest.`);
+      }
+      requirePositiveInteger(
+        identity.artifact.byteLength,
+        `manifest.chapters[${index}].artifact.byteLength`,
+      );
+    }
+  });
   return manifest;
 };
 

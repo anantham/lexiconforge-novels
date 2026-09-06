@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
 import { describe, test } from 'node:test';
 
 import {
@@ -8,6 +9,10 @@ import {
   repairContiguousChapterNumbersFromStableIds,
   validateLibraryPublication,
 } from './lib/publication-integrity.mjs';
+import {
+  createChapterArtifact,
+  validateChapterArtifact,
+} from './lib/chapter-artifacts.mjs';
 
 const fixture = () => {
   const chapters = [1, 2, 3].map((chapterNumber) => {
@@ -49,6 +54,20 @@ const fixture = () => {
 };
 
 describe('publication integrity', () => {
+  test('rejects GitHub raw URLs for LFS-protected session and chapter files', () => {
+    const values = fixture();
+    const rawBase = 'https://raw.githubusercontent.com/example/novels/main/novels/fixture';
+    values.metadata.versions[0].sessionJsonUrl = `${rawBase}/session.json`;
+    values.manifest.session.url = `${rawBase}/session.json`;
+    assert.throws(() => validateLibraryPublication(values), /Git LFS.*media.githubusercontent.com/);
+
+    const other = fixture();
+    other.manifest.chapters[0].artifact = {
+      url: `${rawBase}/chapters/chapter-000001.json`, sha256: 'a'.repeat(64), byteLength: 1,
+    };
+    assert.throws(() => validateLibraryPublication(other), /Git LFS.*media.githubusercontent.com/);
+  });
+
   test('round-trips an exact manifest against metadata and session bytes', () => {
     const values = fixture();
     assert.equal(validateLibraryPublication(values), values.manifest);
@@ -111,5 +130,75 @@ describe('stable-ID-proven chapter-number repair', () => {
       (error) => error instanceof PublicationIntegrityError && /cannot be repaired/.test(error.message),
     );
     assert.deepEqual(values.session.chapters.map((chapter) => chapter.chapterNumber), numbersBefore);
+  });
+});
+
+describe('immutable chapter artifacts', () => {
+  test('keeps revision addresses distinct while reusing unchanged chapter bytes', () => {
+    const { metadata, session } = fixture();
+    const input = { novelId: metadata.id, versionId: 'v1', chapter: session.chapters[0],
+      publicBaseUrl: 'https://media.example/fixture/chapters' };
+    const original = createChapterArtifact(input);
+    assert.deepEqual(createChapterArtifact(input), original);
+    const revised = createChapterArtifact({ ...input, chapter: { ...input.chapter, content: 'Revised content' } });
+    const nextVersion = createChapterArtifact({ ...input, versionId: 'v2' });
+    assert.equal(new Set([original, revised, nextVersion].map(artifact => artifact.reference.url)).size, 3);
+  });
+
+  test('round-trips exact bytes and the manifest identity tuple', () => {
+    const values = fixture();
+    const identity = values.manifest.chapters[1];
+    const artifact = createChapterArtifact({
+      novelId: values.metadata.id,
+      versionId: 'v1',
+      chapter: values.session.chapters[1],
+      publicBaseUrl: 'https://media.example/fixture/chapters',
+    });
+
+    assert.equal(validateChapterArtifact({
+      json: artifact.json,
+      document: artifact.document,
+      reference: artifact.reference,
+      context: { novelId: values.metadata.id, versionId: 'v1', identity },
+    }), artifact.document);
+    assert.equal(artifact.fileName, `chapter-000002-${artifact.reference.sha256}.json`);
+  });
+
+  test('rejects byte drift and tuple drift independently', () => {
+    const values = fixture();
+    const identity = values.manifest.chapters[1];
+    const artifact = createChapterArtifact({
+      novelId: values.metadata.id,
+      versionId: 'v1',
+      chapter: values.session.chapters[1],
+      publicBaseUrl: 'https://media.example/fixture/chapters',
+    });
+    assert.throws(
+      () => validateChapterArtifact({
+        json: `${artifact.json} `,
+        document: artifact.document,
+        reference: artifact.reference,
+        context: { novelId: values.metadata.id, versionId: 'v1', identity },
+      }),
+      /byteLength/,
+    );
+
+    const wrongTuple = structuredClone(artifact.document);
+    wrongTuple.chapter.chapterNumber = 99;
+    const wrongJson = JSON.stringify(wrongTuple, null, 2);
+    const wrongReference = {
+      ...artifact.reference,
+      byteLength: Buffer.byteLength(wrongJson, 'utf8'),
+      sha256: createHash('sha256').update(wrongJson, 'utf8').digest('hex'),
+    };
+    assert.throws(
+      () => validateChapterArtifact({
+        json: wrongJson,
+        document: wrongTuple,
+        reference: wrongReference,
+        context: { novelId: values.metadata.id, versionId: 'v1', identity },
+      }),
+      /tuple does not match/,
+    );
   });
 });

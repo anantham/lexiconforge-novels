@@ -1,1 +1,2 @@
 **/session.json filter=lfs diff=lfs merge=lfs -text
+**/chapters/*.json filter=lfs diff=lfs merge=lfs -text
